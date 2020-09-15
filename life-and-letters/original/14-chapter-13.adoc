@@ -1,21 +1,27 @@
 == Chapter XIII.
 
-Visit of Samuel Bownas to William Ellis--Notices of Samuel Bownas, James Wilson,
-Gilbert Heathcot, and Jennet Stow--Letter from Gilbert Heathcot--Notices of John Butcher,
-Robert Huberstie, and James Waithman--Remarkable Fungus--Letters from John Tomkins,
-with an extract of a letter from John Richardson--Notices of John Taylor and
-Jeremiah Grimshaw--Letter from Theodore Eccleston--Notice of John Bowran,
-and letter from him--Notices of Isaac Alexander, Thomas Pearce, George Rook, John Ecroyd,
-and Lawrence King--Letter from Isaac Alexander--Letter to Nathan Newby,
-containing advice respecting the Scriptures--Notice
-of Thomas Rodman--Letter to Thomas Rodman.
+[.chapter-synopsis]
+* Visit of Samuel Bownas to William Ellis
+* Notices of Samuel Bownas, James Wilson, Gilbert Heathcot, and Jennet Stow
+* Letter from Gilbert Heathcot
+* Notices of John Butcher, Robert Huberstie, and James Waithman
+* Remarkable Fungus
+* Letters from John Tomkins, with an extract of a letter from John Richardson
+* Notices of John Taylor and Jeremiah Grimshaw
+* Letter from Theodore Eccleston
+* Notice of John Bowran, and letter from him
+* Notices of Isaac Alexander, Thomas Pearce, George Rook, John Ecroyd, and Lawrence King
+* Letter from Isaac Alexander
+* Letter to Nathan Newby, containing advice respecting the Scriptures
+* Notice of Thomas Rodman
+* Letter to Thomas Rodman
 
 But few incidents relating to the life of William Ellis,
 after his return from America have been recorded,
 so that little but what is contained in his correspondence can be presented to the reader.
 The following notice of a visit to him is from the pen of Samuel Bownas,
-who in "`An Account of his Life, Travels,
-and Christian Experiences in the Work of the Ministry,`" mentions being at Airton,
+who in [.book-title]#An Account of his Life, Travels,
+and Christian Experiences in the Work of the Ministry,# mentions being at Airton,
 in 1701, "`where,`" he says, "`that great and good man William Ellis,
 being then living and full of power,
 having great and solid experience concerning the work of the ministry,
@@ -50,7 +56,7 @@ returning to his business as a blacksmith, or working as an agricultural laboure
 in the intervals.
 The field of his religious labours embraced Great Britain, Ireland and North America.
 In the latter part of his life, Samuel Bownas resided in Dorsetshire,
-in which county he died in 1753, aged 77 years.--See Life of Samuel Bownas.
+in which county he died in 1753, aged 77 years.--See [.book-title]#Life of Samuel Bownas#.
 
 James Wilson, who accompanied Samuel Bownas on his visit to William Ellis,
 was a native of Kirby Lonsdale, in Westmoreland:
@@ -59,7 +65,7 @@ but joined the Society of Friends whilst a young man.
 He became a minister in his thirtieth year, and was a serviceable man in various ways,
 and especially as a peacemaker.
 He died at Kendal, where he had long resided, in 1769,
-aged 92 years.--See Piety Promoted, Part VIII.
+aged 92 years.--See [.book-title]#Piety Promoted#, Part VIII.
 
 Gilbert Heathcot, the writer of the following letter, was a physician,
 who resided at Citthorp, near Chesterfield: he married a sister of Sir John Rhodes,
@@ -77,10 +83,15 @@ along with William Ellis, she bequeathed her property,
 as appears by the following letter.
 Gilbert Heathcot, entertained a high esteem for his patient,
 and wrote a Testimony respecting her,
-which is attached to a notice of her in the Seventh Part of Piety Promoted.
+which is attached to a notice of her in the Seventh Part of [.book-title]#Piety Promoted#.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Gilbert Heathcot to William Ellis
 
+[.salutation]
 Dear Friend, William Ellis;
 
 Our dear friend, Jennet Stow, having left the management of her affairs to us two,
@@ -110,14 +121,18 @@ and if ever we meet, may it be in that which makes all good meetings;
 and if it never be in this world, yet I hope we shall meet at the great and best meeting.
 My love is to all that are in the true love.
 
+[.signed-section-closing]
 Thy loving friend,
 
+[.signed-section-signature]
 Gilbert Heathcot.
+
+--
 
 John Butcher, who is noticed in the following letter, was born in 1666:
 his parents were estimable Friends: he became a minister when about fifteen years of age;
 he visited many parts of Great Britain in the exercise of his gift,
-and was eminent as a peacemaker; he died in 1721, aged 55.--See Piety Promoted,
+and was eminent as a peacemaker; he died in 1721, aged 55.--See [.book-title]#Piety Promoted#,
 Eighth Part.
 
 William Bingley, who is also noticed in this letter,
@@ -141,7 +156,7 @@ but according to statute law:
 he joined the Society of Friends when about eighteen years of age.
 The Lord bestowed upon him a gift in the ministry,
 in the exercise of which he visited the churches of Christ in many parts of England:
-he died in 1706, aged about 71 years.--See Piety Promoted, Part Fourth.
+he died in 1706, aged about 71 years.--See [.book-title]#Piety Promoted#, Part Fourth.
 
 James Waithman, also mentioned in this letter as a prisoner,
 had been in prison for conscience`' sake twice before the time noted here.
@@ -151,15 +166,20 @@ The "`strange thing`" noticed in New England, in John Richardson`'s letter quote
 was probably a fungus;
 both in form and stench it seems to have resembled
 a plant of the same tribe found in Great Britain,
-and called Phallus impudicus or Common Stinkhorn.
+and called _phallus impudicus_ or Common Stinkhorn.
 The remarks upon it are curious,
 and show how much the mind may be excited for good or evil by an object not understood.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Tomkins to William Ellis
 
-London, the 11th of the 10th mo.
-1702.
+[.signed-section-context-open]
+London, the 11th of the 10th mo. 1702.
 
+[.salutation]
 Dear Friend, William Ellis.
 
 I had thine last night; it was very acceptable.
@@ -228,15 +248,24 @@ We are very thankful of the safe arrival of our dear friend, William Penn;
 it is the Lord`'s mercy who is gracious to him and us also.
 Farewell,
 
+[.signed-section-closing]
 I am thy friend and brother in the Truth,
 
+[.signed-section-signature]
 John Tomkins.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Tomkins to William Ellis
 
-London, the 17th of 4th mo.
-1703.
+[.signed-section-context-open]
+London, the 17th of 4th mo. 1703.
 
+[.salutation]
 Dear Friend, William Ellis;
 
 I have thine to me of the 15th of 3rd month, 1703;
@@ -280,9 +309,13 @@ I shall not be backward to serve them.
 Let me hear from thee, and when we may expect to see thee;
 I have not material of other matters to advise thee of, but in great sincerity am
 
+[.signed-section-closing]
 Thy real friend and brother,
 
+[.signed-section-signature]
 John Tomkins.
+
+--
 
 John Taylor, who is noticed in the following letter,
 was convinced of the soundness of the Christian principles of Friends by George Fox,
@@ -309,11 +342,16 @@ and when he had accomplished these services, returned to his calling,
 which is mentioned in a Testimony respecting him as having been humble and laborious.
 He died in great peace in 1729, aged 81 years.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Theodore Eccleston to William and Alice Ellis
 
-London, the 16th of 7th mo.
-1703
+[.signed-section-context-open]
+London, the 16th of 7th mo. 1703
 
+[.salutation]
 Dear William And Alice Ellis;
 
 In true love I heartily salute you both, desiring that you and we,
@@ -333,13 +371,20 @@ and to him be it rendered by us all, henceforth and forever.
 My dear love to John Taylor and wife, William Wyld and friends, Thomas Aldam,
 Jeremiah Grimshaw, Aaron Atkinson, and all that ask after
 
-Thy loving friend,
+[.signed-section-closing]
+Your loving friend,
 
+[.signed-section-signature]
 Theodore Eccleston.
+
+--
 
 The following Testimony of Jeremiah Grimshaw, of Rawden,
 who is mentioned in the above letter, and in several other parts of this volume,
 is from the pen of his brother, John Grimshaw, who also was a minister:
+
+[.embedded-content-document.testimony]
+--
 
 Jeremiah Grimshaw was born of religious parents,
 who brought him up in the fear of the Lord;
@@ -363,6 +408,8 @@ He departed this life on the 12th of the 8th month, 1721, aged about sixty-nine 
 and we doubt not has attained to that rest,
 which is prepared for those who hold out in faithfulness to the end.
 
+--
+
 John Bowron, the writer of the following short letter, resided at Cotherstone,
 on the northern border of Yorkshire: he joined Friends about 1653,
 when about 26 years of age, being convinced of the soundness of their principles,
@@ -379,12 +426,18 @@ He also visited Ireland many times;
 and after all his journeyings and several imprisonments
 for his testimony to the Truth as it is in Jesus,
 he died in 1704, in the house in which he was born, being 77 years of age,
-and full of peace.--See Piety Promoted, Part III.
+and full of peace.--See [.book-title]#Piety Promoted#, Part III.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Bowron to William Ellis
 
+[.signed-section-context-open]
 Cotherstone, 1703.
 
+[.salutation]
 Dear Friend, William Ellis;
 
 My love unto thee in the Truth of Almighty God, and to thy wife and Friends thereabout.
@@ -400,9 +453,13 @@ William Kay and Jonathan Kay, as also Peter Atkinson,
 send their kind love to thee and thy wife.
 This with my dear love to thee and thy wife and Friends in the unchangeable Truth, is from
 
+[.signed-section-closing]
 Thy loving brother in the Truth,
 
+[.signed-section-signature]
 John Bowron.
+
+--
 
 Isaac Alexander, the writer of the following letter, was born in 1680:
 he joined the Society of Friends when about fourteen years of age,
@@ -418,7 +475,7 @@ The magistrates publicly forbade the people to buy anything of Friends,
 particularly of Richard Pearce; and the prohibition rested upon him for several months;
 but he regained his business and followed it with reputation.
 The meetings of Friends were held at his house for many
-years.--See Rutty`'s History of Friends in Ireland.
+years.--See Rutty`'s [.book-title]#History of Friends in Ireland#.
 Quarto edition, page 97.
 
 George Rook, a native of Cumberland, and a carpenter by trade:
@@ -430,14 +487,14 @@ and was afterwards imprisoned in Durham jail,
 for refusing to break the command of Christ, "`Swear not at all.`"
 He laboured in the Gospel in various parts of Great Britain and Ireland,
 and settled in Dublin in 1737: he died in 1742,
-aged 90.--See Biographical Notices of Friends in Ireland.
+aged 90.--See [.book-title]#Biographical Notices of Friends in Ireland#.
 
 John Acroyd or Ecroyd, who resided at Briercliffe, near Burnley, in Lancashire:
 he is described as an able minister of the Gospel, a steady and zealous labourer therein,
 a good example to the flock of Christ,
 and a patient sufferer for the testimony of a good conscience.
 He died in 1721.--See a testimony from Marsden Monthly Meeting, concerning John Ecroyd,
-the son of this Friend, in "`A Collection of Testimonies,`" published in 1760.
+the son of this Friend, in [.book-title]#A Collection of Testimonies#, published in 1760.
 
 Lawrence King, who is likewise mentioned in other parts of this volume:
 he belonged to Salterforth Meeting,
@@ -452,11 +509,16 @@ name on the record of Settle Monthly Meeting,
 without any particulars by which this individual can be identified among them,
 it is not easy to determine the period of his decease.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Isaac Alexander to William Ellis.
 
-Sedburgh, the 15th of 10th mo.
-1703.
+[.signed-section-context-open]
+Sedburgh, the 15th of 10th mo. 1703.
 
+[.salutation]
 Dear Friend, William Ellis;
 
 Whom my soul doth dearly love, and tenderly salute,
@@ -528,14 +590,24 @@ I shall conclude with my heart full of true brotherly
 and abiding love to thyself and wife,
 and Friends that ask of me.
 
+[.signed-section-closing]
 Thy true friend and exercised brother in the Truth,
 
+[.signed-section-signature]
 Isaac Alexander.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Ellis to Nathan Newby.
 
+[.signed-section-context-open]
 Airton, 1703.
 
+[.salutation]
 Kind Friend, Nathan Newby;
 
 Having opportunity, I thought fit to let thee know, that I got well to England,
@@ -591,17 +663,27 @@ Having thus eased my mind, I leave these things to thee,
 and commit thee to Him that is able to keep thee to the end,
 and rest with dear love to thee and thy wife,
 
+[.signed-section-closing]
 Thy real friend,
 
+[.signed-section-signature]
 William Ellis.
+
+--
 
 Thomas Rodman, to whom the following letter is addressed, is spoken of,
 by Thomas Chalkley, as a man of the first rank on Rhode Island.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Ellis to Thomas Rodman.
 
+[.signed-section-context-open]
 London, 1704.
 
+[.salutation]
 My Dearly and Well-beloved Friend, Thomas Rodman;
 
 Having this opportunity, I was willing to give thee a few lines,
@@ -642,6 +724,10 @@ so that righteousness may spring up and Truth may grow like a rose,
 and the glory and perfume thereof may fill your meetings.
 This is the desire of
 
+[.signed-section-closing]
 Your real friend,
 
+[.signed-section-signature]
 William Ellis.
+
+--

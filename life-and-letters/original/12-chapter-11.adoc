@@ -1,10 +1,17 @@
 == Chapter XI.
 
-Yellow Fever--Notices of Thomas Duckett and Thomas Musgrave--Letters from
-Nicholas Wain and William Fishbourn--Notice of Roger Gill and his death--Letter
-from Samuel Carpenter--Notice of Edward Shippen--Letter from Edward Shippen--John
-Slack to Alice Ellis--Letters from John Tomkins and Theodore Eccleston--Notice
-of John Wynn--Testimony of William Ellis respecting John Wynn.
+[.chapter-synopsis]
+* Yellow Fever
+* Notices of Thomas Duckett and Thomas Musgrave
+* Letters from Nicholas Wain and William Fishbourn
+* Notice of Roger Gill and his death
+* Letter from Samuel Carpenter
+* Notice of Edward Shippen
+* Letter from Edward Shippen
+* John Slack to Alice Ellis
+* Letters from John Tomkins and Theodore Eccleston
+* Notice of John Wynn
+* Testimony of William Ellis respecting John Wynn
 
 Several of the letters in this chapter describe the ravages of the Yellow Fever,
 in one of its most formidable attacks upon the city of Philadelphia.
@@ -18,11 +25,17 @@ he appears now to have been going out as an emigrant,
 and to have died on the passage along with many more,
 from the unhealthy state of a crowded ship.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Nicholas Waln to William Ellis
 
+[.signed-section-context-open]
 Philadelphia, the 22nd of the 7th mo.
 1699.
 
+[.salutation]
 Dear Friend, William Ellis;
 
 My dear love in the unchangeable Truth is unto thee and thy dear wife;
@@ -84,9 +97,13 @@ some of them were Thomas Musgrave, Thomas Wilson, Henry Michel, Robert Driver,
 and Grace Driver, but Grace died after she came here.
 This from,
 
+[.signed-section-closing]
 Thy friend and brother,
 
+[.signed-section-signature]
 Nicholas Waln.
+
+--
 
 Roger Gill, whose death is noticed in the following letters, was from London,
 where he joined Friends about 1683.
@@ -97,13 +114,18 @@ if it pleased Him, accept his life for the people.
 Soon after this Roger Gill fell sick, and in a few days he died, in great peace,
 aged 34 years;
 and it was observed that few died of the disease afterwards.--See Thomas Story`'s Journal,
-and Piety Promoted, Part III.
+and [.book-title]#Piety Promoted#, Part III.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Fishbourn to William Ellis
 
-Philadelphia, the 27th of the 8th mo.
-1699.
+[.signed-section-context-open]
+Philadelphia, the 27th of the 8th mo. 1699.
 
+[.salutation]
 Dear Friend, William Ellis;
 
 These come with the salutation of my dear love to thee,
@@ -153,15 +175,24 @@ and it is mostly as healthy as at other times.
 Thanks be to the Lord, his Truth prospers through afflictions.
 With dear love to thee,
 
+[.signed-section-closing]
 I am, in haste, thy friend,
 
+[.signed-section-signature]
 William Fishbourn.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Carpenter to William Ellis
 
-Philadelphia, the 4th of 9th mo.
-1699.
+[.signed-section-context-open]
+Philadelphia, the 4th of 9th mo. 1699.
 
+[.salutation]
 Dear Friend, William Ellis;
 
 I received thy two letters from Maryland, and one from London,
@@ -201,21 +232,30 @@ also dear Walter`'s. This comes by dear Richard Gove to Maryland,
 who intends for England with Aaron; I have not time to enlarge,
 therefore conclude with my dear love to thee and thine,
 
+[.signed-section-closing]
 Thy friend,
 
+[.signed-section-signature]
 Samuel Carpenter.
+
+--
 
 Edward Shippen, the writer of the following letter,
 was the father-in-law of Thomas Story: he was a respectable Friend, formerly of Boston,
 and subsequently of Philadelphia: he was Speaker in the House of Assembly in 1695,
-being member for Philadelphia.--See Proud`'s History of Pennsylvania, Vol.
+being member for Philadelphia.--See Proud`'s [.book-title]#History of Pennsylvania#, Vol.
 II. page 26.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Edward Shippen to William Ellis
 
-Philadelphia, the 27th of 7th mo.
-1699.
+[.signed-section-context-open]
+Philadelphia, the 27th of 7th mo. 1699.
 
+[.salutation]
 Dear, and Well-beloved Friend, William Ellis;
 
 I received thy letter from Chester, also thy last from London,
@@ -243,15 +283,24 @@ that we may all be fitted and prepared to meet the Lord when it
 shall please him to take us out of this troublesome world.
 So with mine, my wife`'s and children`'s dear love to thee, in that which changeth not,
 
+[.signed-section-closing]
 I am thy real friend,
 
+[.signed-section-signature]
 Edward Shippen.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Slack to Alice Ellis
 
-Aykebank, 10th of the 7th mo.
-1699.
+[.signed-section-context-open]
+Aykebank, 10th of the 7th mo. 1699.
 
+[.salutation]
 Dear Friend, Alice Ellis;
 
 These with the salutation of that love to thee which manifesteth
@@ -282,15 +331,25 @@ honour to the Lord God and the Lamb who is eternally worthy,
 now and forevermore, world without end, Amen, Amen.
 My dear love is to thy husband and Adam Squire.
 Dear Alice, I desire to have a few lines from thy hand as thou findest freedom.
+
+[.signed-section-closing]
 These are from thy poor, weak, and low friend,
 
+[.signed-section-signature]
 John Slack.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Tompkins to William Ellis.
 
-London, the 2nd of the 10th mo.
-1699.
+[.signed-section-context-open]
+London, the 2nd of the 10th mo. 1699.
 
+[.salutation]
 Dear Friend;
 
 Thine I received of the 18th of last mouth,
@@ -327,15 +386,24 @@ My dear love to thy wife; my wife`'s dear love to thee and to her.
 William Robinson is well; Friends here are the like.
 I am confined to small compass in paper, but not in love, wherein I am large, and remain
 
+[.signed-section-closing]
 Thy true friend and brother,
 
+[.signed-section-signature]
 John Tomkins.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Theodore Eccleston to William Ellis
 
-London, the 13th of the 10th mo.
-1699.
+[.signed-section-context-open]
+London, the 13th of the 10th mo. 1699.
 
+[.salutation]
 Dear, Friend, William Ellis;
 
 I have received thy two letters about thy sorrowful
@@ -412,9 +480,13 @@ and Truth and peace flow as a mighty river;
 that high praises to his power may everywhere be sounded aloud henceforth and forever!
 So with unfeigned love, I salute thee and Friends who know me, and rest
 
+[.signed-section-closing]
 Thy hearty friend,
 
+[.signed-section-signature]
 Theodore Eccleston.
+
+--
 
 John Wynn, whose death is referred to in the two preceding letters,
 was convinced of the soundness of the principles held by the Society of Friends,
@@ -425,6 +497,10 @@ and was a nursing father in the church of Christ:
 his service in this character is affectingly set forth in
 the following testimony respecting him by William Ellis.
 
+[.embedded-content-document.testimony]
+--
+
+[.letter-heading]
 The Testimony of William Ellis, concerning John Wynn.
 
 There hath been a testimony upon my mind for some time concerning John Wynn of Bradford,
@@ -489,4 +565,7 @@ and with the spirits of just men made perfect in Christ.
 The sense of these things hath been at times upon my mind,
 and I could not truly see that I should discharge myself till I had written the abovesaid.
 
+[.signed-section-signature]
 William Ellis.
+
+--

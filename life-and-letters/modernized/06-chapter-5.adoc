@@ -1,8 +1,13 @@
 == Chapter V.
 
-Letters from America to Settle Monthly Meeting--Alice Ellis to her husband--William
-Ellis to his wife--Aaron Atkinson and William Ellis separate--Letter from Aaron
-Atkinson--Anecdote from Thomas Story`'s Journal--William Ellis to Thomas Johnson.
+[.chapter-synopsis]
+* Letters from America to Settle Monthly Meeting
+* Alice Ellis to her husband
+* William Ellis to his wife
+* Aaron Atkinson and William Ellis separate
+* Letter from Aaron Atkinson
+* Anecdote from Thomas Story`'s Journal
+* William Ellis to Thomas Johnson
 
 The care of William Ellis for his Friends in England
 was soon made manifest after his arrival in America,
@@ -16,11 +21,16 @@ at the period at which the following epistles were addressed to it,
 was composed of the Preparative Meetings of Settle, Bentham, Newton-in-Bolland,
 Rilston (including Airton), Scarhouse, Salterforth, and Selside.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Ellis to the Monthly Meeting, at Settle, in Yorkshire.
 
-Maryland, the 25th of the 1st mo.
-1698.
+[.signed-section-context-open]
+Maryland, the 25th of the 1st mo. 1698.
 
+[.salutation]
 Dear Friends,
 
 This comes with my true love to you all, to let you know,
@@ -112,24 +122,38 @@ I may behold the glory of the Lord among you,
 and be partaker of his joy and consolation among you,
 is the fervent prayer of your real friend,
 
+[.signed-section-signature]
 William Ellis.
 
-When you are met together, and you feel the Lord`'s power upon you,
+[.postscript]
+====
+
+P+++.+++ S.--When you are met together, and you feel the Lord`'s power upon you,
 present your requests to God for my preservation every way;
 and let this be read in your men`'s and women`'s
 meetings in the same love that it is written in.
 
+====
+
+[.signed-section-signature]
 William Ellis
+
+--
 
 The epistle, from which the following extract is taken, appears to have been,
 in some degree, a duplicate of the former one,;
 but some of the additional matter is of too much value to be omitted in this collection.
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 Extract from an Epistle of William Ellis to Friends, at their Monthly Meeting at Settle.
 
-Maryland, the 30th of the 1st mo.
-1698.
+[.signed-section-context-open]
+Maryland, the 30th of the 1st mo. 1698.
 
+[.salutation]
 Dear Friends;
 
 As I have been exercised among you,
@@ -189,9 +213,13 @@ who has the Balm of Gilead to heal the wound of the daughter of Zion.
 The Lord is about to spread the fame of Truth in these countries.
 With dear love to you all,
 
+[.signed-section-closing]
 I remain your dear friend and brother,
 
+[.signed-section-signature]
 William Ellis.
+
+--
 
 The excellent spirit of true helpers in Christ, exhibited in the two following letters,
 as well as in many others in this series, deserves the serious attention of the reader.
@@ -201,11 +229,16 @@ and depict a fervency of spirit, such as might lead to the expectation,
 that the divine blessing would attend their labours,
 and that the work of the Lord would prosper in their hands.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Alice Ellis to Her Husband
 
-Airton, the 15th of the 2nd mo.
-1698.
+[.signed-section-context-open]
+Airton, the 15th of the 2nd mo. 1698.
 
+[.salutation]
 Dear and Loving Husband;
 
 After the salutation of endeared love to you,
@@ -246,15 +279,24 @@ and I intend to endeavour to answer your mind in what you wrote to me from Londo
 Now I feel my mind eased; only when the goodness of Truth is in your heart,
 then remember me.
 
+[.signed-section-closing]
 So I rest and remain, your true and loving wife,
 
+[.signed-section-signature]
 Alice Ellis.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Ellis to His Wife
 
-Written at Chuckatuck, in Virginia, the 19th of the 2nd mo.
-1698.
+[.signed-section-context-open]
+Written at Chuckatuck, in Virginia, the 19th of the 2nd mo. 1698.
 
+[.salutation]
 Dear Wife;
 
 This with true love, comes to let you know how and where I am.
@@ -314,14 +356,22 @@ that as her zeal and love has increased, so her comfort may increase in her old 
 I live in hope to return back and enjoy your company,
 which is more to me than all things that my outward eye has seen; and till then,
 
+[.signed-section-closing]
 I remain your loving and affectionate husband,
 
+[.signed-section-signature]
 William Ellis.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Extract of a letter to Alice Ellis from her husband.
 
-Page in Creek, in Virginia, 19th 3rd mo.
-1698.
+[.signed-section-context-open]
+Page in Creek, in Virginia, 19th 3rd mo. 1698.
 
 We have been once through Virginia, and through Carolina,
 where we have found many tenderhearted people, and had much hard service,
@@ -339,16 +389,25 @@ we were all preserved Here is much travel here by water, but I will take what ca
 and the rest must be committed to God.
 Thus with true love to you,
 
+[.signed-section-closing]
 I remain your true and loving husband,
 
+[.signed-section-signature]
 William Ellis.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Ellis to His Wife
 
-West River, in Maryland, the 16th of the 4th mo.
-1698.
+[.signed-section-context-open]
+West River, in Maryland, the 16th of the 4th mo. 1698.
 
-Dear And Loving Wife,
+[.salutation]
+Dear and Loving Wife,
 
 After the remembrance of my true love to you,
 by this know that I have written often to you, but lest letters should miscarry,
@@ -408,20 +467,29 @@ then as it has been and as it is, and as we have been and still are,
 so we shall be blessed.
 So my dear love, farewell!
 
+[.signed-section-closing]
 I still remain yours,
 
+[.signed-section-signature]
 William Ellis.
+
+--
 
 Aaron Atkinson not feeling his mind easy to leave Virginia
 when William Ellis believed it right for him to go forward,
 they separated; and soon after parting,
 Aaron Atkinson was attacked by intermittent fever, as noticed in the following letter.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Aaron Atkinson to William Ellis.
 
-The 5th of 5th mo.
-1698.
+[.signed-section-context-open]
+The 5th of 5th mo. 1698.
 
+[.salutation]
 Dear Friend;
 
 Right glad was I to hear from you; your care and love to me are great I must needs say,
@@ -453,7 +521,10 @@ and all other friends that ask of me.
 These are with true love to you,
 and sincere cries to the Lord to be with you to the end of your days,
 
+[.signed-section-signature]
 Aaron Atkinson.
+
+--
 
 The following anecdote is from the journal of Thomas Story,
 who became much interested in the salvation of the negroes
@@ -461,6 +532,8 @@ when on a religious visit from England to America,
 and travelling in North Carolina in 1699.
 Speaking of some coloured men who attended the meetings of Friends, he says:
 
+[quote]
+____
 I had inquired of one of the black men, how long they had come to meetings; and he said,
 they had always been kept in ignorance, and disregarded,
 as persons who were not to expect anything from the Lord, till Jonathan Taylor,
@@ -472,15 +545,21 @@ Of this they were glad; and on the next occasion,
 which was when William Ellis and Aaron Atkinson were there, they went to meetings,
 and several of them were convinced.^
 footnote:[See the Life of Thomas Story, 8vo. Ed. 1786, p. 115.]
+____
 
 Thomas Johnson, to whom the following letter was addressed, died at Richmond,
 in Yorkshire, in 1710, aged about 73 years.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Ellis to Thomas Johnson
 
-Maryland, the 22nd of the 5th mo.
-1698.
+[.signed-section-context-open]
+Maryland, the 22nd of the 5th mo. 1698.
 
+[.salutation]
 Dear Friend, Thomas Johnson;
 
 After my dear love to you,
@@ -523,6 +602,10 @@ and in Wensleydale.
 There will be a brave people thereabouts if they keep in the Truth.
 With true love to you and all yours,
 
+[.signed-section-closing]
 I remain your real friend,
 
+[.signed-section-signature]
 William Ellis.
+
+--

@@ -1,9 +1,16 @@
 == Chapter XVI.
 
-Remarks on Wrong Spirits--Notice of Susanna Freeborn--Letters from Leah Newbery and
-Richard Johns--Notices of Thomas Wilson and Joseph Glaister--Letter from Samuel Jennings--Notice
-of John Gratton and letter from him--Letter to Francis Tomes--Letter from George Rook--Notice
-of George Knipe and letter from him--Letters from William Edmundson and Thomas Rodman.
+[.chapter-synopsis]
+* Remarks on Wrong Spirits
+* Notice of Susanna Freeborn
+* Letters from Leah Newbery and Richard Johns
+* Notices of Thomas Wilson and Joseph Glaister
+* Letter from Samuel Jennings
+* Notice of John Gratton and letter from him
+* Letter to Francis Tomes
+* Letter from George Rook
+* Notice of George Knipe and letter from him
+* Letters from William Edmundson and Thomas Rodman
 
 Some of the letters in this chapter, as well as some in those preceding, show,
 that notwithstanding the Society of Friends was at this period,
@@ -22,17 +29,22 @@ but rather as evidences of the necessity of watchful-, ness and prayer,
 lest those who think they stand should not be found in a christian spirit,
 or in any other way should fail of the grace of God.
 
-In the Life of John Richardson mention is made of Susanna Freeborn,
+In the [.book-title]#Life of John Richardson# mention is made of Susanna Freeborn,
 who is noticed in the following letter: she went in company with him,
 on a religious visit to Nantucket;
-and he speaks of her as a woman in good unity with Friends.--See Life of John Richardson.
-Edition 1143, page 85.
+and he speaks of her as a woman in good unity with Friends.--See [.book-title]#Life of John Richardson#.
+Edition 1743, page 85.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Leah Newbery to William Ellis.
 
-Rhode Island, 29th of 6th mo.
-1706.
+[.signed-section-context-open]
+Rhode Island, 29th of 6th mo. 1706.
 
+[.salutation]
 Dear Friend, William Ellis;
 
 Our friend, Alice Anthony, desired me to write a few lines for her to you,
@@ -73,15 +85,24 @@ Dear friend, I am a child, and have written like a child, stammeringly and broke
 but I hope, as you are strong, you will bear with the weak.
 My dear love salutes you, and
 
+[.signed-section-closing]
 I am your friend,
 
+[.signed-section-signature]
 Leah Newbery.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Johns to William Ellis.
 
-Maryland, 12th of 6th mo.
-1706.
+[.signed-section-context-open]
+Maryland, 12th of 6th mo. 1706.
 
+[.salutation]
 Dear Friend, William Ellis;
 
 Whom I truly love, I have yours per our friends, John Fothergill and William Armistead;
@@ -118,7 +139,10 @@ I conclude at this time,
 who am your truly loving friend and brother in the fellowship
 of the Gospel of our Lord and Saviour Jesus Christ,
 
+[.signed-section-signature]
 Richard Johns.
+
+--
 
 Thomas Wilson, who is mentioned in the following letter, was a native of Cumberland:
 he was brought up in profession with the Episcopal Church,
@@ -130,9 +154,9 @@ travelled in the exercise of his gift in Great Britain,
 Ireland, and America: he settled at Edenderry in Ireland, in 1695:
 he often travelled in the work of the ministry in company with James Dickinson.
 Thomas Wilson died in 1725, aged 70,
-having been a minister about 45 years.--See Piety Promoted,
-Part IX. Leadbeater`'s Biographical Notices,
-page 158. Journals of Thomas Wilson and James Dickinson, edition 1847.
+having been a minister about 45 years.--See [.book-title]#Piety Promoted#,
+Part IX. [.book-title]#Leadbeater`'s Biographical Notices#,
+page 158. [.book-title]#Journals of Thomas Wilson and James Dickinson#, edition 1847.
 
 Joseph Glaister, who is also noticed in this letter, was born in Cumberland,
 from which county he visited Ireland in 1695,
@@ -143,11 +167,16 @@ and very serviceable in the discipline,
 and one who travelled much for the spreading of the Truth: he died in 1718,
 aged about 45 years, having been a minister about 24 years.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Jennings to William Ellis.
 
-Philadelphia, 13th of 6th mo.
-1706.
+[.signed-section-context-open]
+Philadelphia, 13th of 6th mo. 1706.
 
+[.salutation]
 Dear William Ellis;
 
 With true and hearty love do I salute you,
@@ -196,7 +225,10 @@ now and forever.
 This with dear love to yourself and your dear wife, though unknown, and all Friends,
 is from your sincere friend and brother in the fellowship of the Gospel,
 
+[.signed-section-signature]
 Samuel Jennings.
+
+--
 
 John Gratton, the writer of the following letter, appears to have been born about 1641.
 He was first brought under religious conviction,
@@ -221,14 +253,17 @@ His residence was for many years at Monyash, in Derbyshire,
 but in 1708 he removed to Needham, and resided with a daughter, at whose house he died,
 in 1711, aged 68, having been a minister about 40 years.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Gratton to William Ellis.
 
-6th of 10th mo.
-1706.
+[.signed-section-context-open]
+6th of 10th mo. 1706.
 
-My Dearly Beloved and Truly Esteemed Friend,
-
-William Ellis;
+[.salutation]
+My Dearly Beloved and Truly Esteemed Friend, William Ellis;
 
 These come dearly to salute you and your comfortable wife, desiring, in much love,
 that these lines may find you both in good health, and every way, in soul, body,
@@ -252,14 +287,24 @@ I desire your remembrance of us; I was glad of Lawrence King and his companion`'
 So in true love, that is beyond words, in which you and your dear wife are near me,
 I thank God,
 
+[.signed-section-closing]
 I am your sincere friend and brother,
 
+[.signed-section-signature]
 John Gratton.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Ellis to Francis Tomes.
 
+[.signed-section-context-open]
 Airton, 1706.
 
+[.salutation]
 Kind Friend, Francis Tomes,
 
 This comes with remembrance of true and unfeigned love to you and Friends,
@@ -303,13 +348,21 @@ I desire you to remember my true love to Ann Wilson if alive, and James Hill`'s 
 and to Friends in general.
 This comes with true love to you and your wife, and so concludes your truly loving friend,
 
+[.signed-section-signature]
 William Ellis.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 George Rook to William Ellis.
 
-Dublin, 25th of 10th mo.
-1707.
+[.signed-section-context-open]
+Dublin, 25th of 10th mo. 1707.
 
+[.salutation]
 Dear Friend, William Ellis,
 
 With endeared love, I very dearly salute you and your dear wife,
@@ -346,7 +399,10 @@ and tell him I should be glad to see him and you here.
 Our Friend John Bradley landed here yesterday, being come to give us a visit.
 This is all at present from your steadfast friend, honest but poor,
 
+[.signed-section-signature]
 George Rook.
+
+--
 
 George Knipe, of Hawkshead, in Lancashire, the writer of the following letter,
 was brought up in profession with the Episcopal Church,
@@ -360,13 +416,18 @@ of the Spirit unto a good measure of obedience,
 he became a preacher of Christ, and from about his 32nd year,
 spent most of his time in publishing the glad tidings of the Gospel.
 In this service he made many apostolic journeys in Great Britain and Ireland.
-He died in 1709, in the 56th year of his age.--See Piety Promoted, Part V.
+He died in 1709, in the 56th year of his age.--See [.book-title]#Piety Promoted#, Part V.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 George Knipe to William Ellis.
 
-London, 16th of 8th mo.
-1708.
+[.signed-section-context-open]
+London, 16th of 8th mo. 1708.
 
+[.salutation]
 Dear Friend, William Ellis,
 
 I make use of this opportunity to write to you,
@@ -438,16 +499,25 @@ The Lord, I am satisfied, will bring it down.
 I commit you to the protection of God, who will not fail us as we keep true to him.
 I conclude your true and constant friend in my measure of grace,
 
+[.signed-section-signature]
 George Knipe.
 
+--
+
+[.offset]
 The following letter from William Edmundson appears to have
 been written when he was about 81 years of age.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Edmundson to William Ellis.
 
-Dublin, 11th of 9th mo.
-1708.
+[.signed-section-context-open]
+Dublin, 11th of 9th mo. 1708.
 
+[.salutation]
 Dear William Ellis;
 
 I received your loving and brotherly letter per our friend and brother, Lawrence King,
@@ -480,13 +550,21 @@ through the continued assistance of God`'s goodness and heavenly wisdom.
 For the particulars I shall refer you to the bearer, being straitened for time.
 My unchangeable love to you in the unchangeable, blessed Truth,
 
+[.signed-section-signature]
 William Edmundson.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Rodman to William Ellis.
 
-Rhode Island, 22nd of 10th mo.
-1708.
+[.signed-section-context-open]
+Rhode Island, 22nd of 10th mo 1708.
 
+[.salutation]
 Dear Friend, William Ellis;
 
 I received your kind and loving letter some time past,
@@ -522,6 +600,10 @@ I hope the Lord will reward them,
 and all his servants that he is pleased to concern in his work.
 My love salutes you and bids you, Farewell!
 
+[.signed-section-closing]
 I am your friend,
 
+[.signed-section-signature]
 Thomas Rodman.
+
+--

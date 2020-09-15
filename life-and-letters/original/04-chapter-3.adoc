@@ -1,10 +1,15 @@
 == Chapter III.
 
-Letters from William Edmundson--to William Edmundson--to John Wynn,--from
-William Edmundson--to William Edmundson--from William Ellis to
-his Servants--to J. Tomlinson--To some Friends in Ireland,
-with a notice of the building of the Meetinghouse
-at Airton--Testimony respecting Roger Haydock.
+[.chapter-synopsis]
+* Letters from William Edmundson
+* to William Edmundson
+* to John Wynn
+* from William Edmundson
+* to William Edmundson
+* from William Ellis to his Servants
+* to J. Tomlinson
+* to some Friends in Ireland, with a notice of the building of the Meetinghouse at Airton
+* Testimony respecting Roger Haydock
 
 In the letters contained in this chapter,
 a fervent zeal for the promotion of the Gospel is exhibited,
@@ -26,11 +31,16 @@ etc. published after his decease, which took place in 1712.
 He was about 68 years of age when he wrote the following letter,
 and nearly 85 when he died.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Edmundson to William Ellis
 
-Rossenallis, the 23rd of the 5th mo.
-1695.
+[.signed-section-context-open]
+Rossenallis, the 23rd of the 5th mo. 1695.
 
+[.salutation]
 Dear William Ellis,
 
 I received thy letter two days ago, and am glad to hear of thy safe coming home,
@@ -84,13 +94,21 @@ And I do not see but if the Lord hath yet more service for me to do,
 he can give ability to perform his will in old age, as well as in younger years.
 So in the fellowship of the Gospel of Christ, thy true friend and brother,
 
+[.signed-section-signature]
 William Edmundson
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Ellis to William Edmundson
 
-Airton, the 26th of the 6th mo.
-1695.
+[.signed-section-context-open]
+Airton, the 26th of the 6th mo. 1695.
 
+[.salutation]
 Dear Friend, W. Edmundson.
 
 By this thou mayst know that I got thine on the 23rd inst.
@@ -170,13 +188,21 @@ I desire thee to send me a few lines with what speed thou conveniently canst,
 with thy judgment or sense in this matter, for the better informing of my understanding;
 for it is my pleasure to do that which is acceptable to the Almighty.
 
+[.signed-section-signature]
 William Ellis.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Ellis to John Wynn
 
-Airton, the 10th of 7th mo.
-1695.
+[.signed-section-context-open]
+Airton, the 10th of 7th mo. 1695.
 
+[.salutation]
 Dear Friend,
 
 By this know that I would fain see thee, for thou hast been and art often in my mind;
@@ -205,7 +231,10 @@ so that in all the good that is come upon me every way,
 I do not give the honour to that which some call Good luck, or Good fortune;
 but only to that great Name that is over every name, and over all powers.
 
+[.signed-section-signature]
 William Ellis.
+
+--
 
 Neither Robert Wardell nor Robert Barrow, who are mentioned in the following letter,
 lived to return to England from their transatlantic visit.
@@ -216,11 +245,16 @@ sailed for Pennsylvania: he was shipwrecked in the Gulf of Florida,
 and suffered great hardships among the Indians, by which his health was greatly impaired.
 He died in Philadelphia, soon after arriving there in 1697, at an advanced age.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Edmundson to William Ellis
 
-Rossenallis, the 18th of the 8th mo.
-1695.
+[.signed-section-context-open]
+Rossenallis, the 18th of the 8th mo. 1695.
 
+[.salutation]
 Dear William Ellis,
 
 This day I received thine from Airton, dated the 26th of the 6th mo.
@@ -271,13 +305,21 @@ I hope, if the Lord will, to be there.
 Thou mayst write at large to me.
 So with my dear love to thee, thy wife, and all true-hearted Friends.
 
+[.signed-section-signature]
 William Edmundson.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Ellis to William Edmundson
 
-Airton, the 14th of the 11th mo.
-1695.
+[.signed-section-context-open]
+Airton, the 14th of the 11th mo. 1695.
 
+[.salutation]
 Dear William Edmundson,
 
 By this know that I received thine from the Half Year`'s Meeting,
@@ -333,14 +375,22 @@ with anything else thou seest may be for our good.
 Here are many Friends who have an endeared love for thee;
 and who bless God that it was thy lot to come into our country.
 
+[.signed-section-signature]
 William Ellis.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From William Ellis to his servants.
 
-London, the 16th of the 5th mo.
-1697.
+[.signed-section-context-open]
+London, the 16th of the 5th mo. 1697.
 
-To Simeon Wilkinson, with the rest of my servants.
+[.salutation]
+To Simeon Wilkinson, with the rest of my servants,
 
 These lines may let you know that a concern is much upon my mind,
 and hath been since I left you,
@@ -385,15 +435,24 @@ it will be your pleasure and crown in old age.
 If some of those whom I had before you, had done thus,
 I am certain things had been better with them than they are at this day.
 
+[.signed-section-closing]
 This is written in kind love, and I remain, yours,
 
+[.signed-section-signature]
 William Ellis.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Ellis to John Tomlinson.
 
-London, the 24th of the 5th mo.
-1697.
+[.signed-section-context-open]
+London, the 24th of the 5th mo. 1697.
 
+[.salutation]
 Loving Friend,
 
 It hath several times been in my mind to write unto thee since I came unto this town,
@@ -443,7 +502,10 @@ that I must leave wife and friends, and bid you all farewell.
 So with kind love to thee and thy brethren, and friends that inquire of me,
 I shall remain, with dear love to my wife, thy true friend,
 
+[.signed-section-signature]
 William Ellis.
+
+--
 
 The following letter is without an address,
 but it seems to have been written to Samuel Randal and Joseph Pike,
@@ -467,11 +529,16 @@ In 1791 the meetings were held alternately at Rilston and Airton.
 In 1792, the meetings at Rilston ceased, and Rilston meetinghouse was sold in 1813.
 The meetinghouse at Airton is still occupied by Friends.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Ellis to Samuel Randal and Joseph Pike
 
-Airton, the 24th of the 6th mo.
-1697.
+[.signed-section-context-open]
+Airton, the 24th of the 6th mo. 1697.
 
+[.salutation]
 Dear Friends,
 
 After my dear love to you, by this know that my wife had yours before I got from London;
@@ -522,11 +589,20 @@ Dear William Edmundson will give you account, if time permit;
 he hath been at my house two nights, and hath had a great service in our country.
 This is with my dear love to you and your wives, and friends as you see meet,
 as though I named them.
+
+[.signed-section-closing]
 So concludes, your real friend,
 
+[.signed-section-signature]
 William Ellis.
 
-William Ellis`'s Testimony concerning our dear Friend, Roger Haydock.
+--
+
+[.embedded-content-document.testimony]
+--
+
+[.blurb]
+=== William Ellis`'s Testimony concerning our dear Friend, Roger Haydock.
 
 I have much in my heart concerning our dear Friend, Roger Haydock,
 though I cannot express to the full what I know of him; but however,
@@ -602,9 +678,13 @@ and Counsellors as at the beginning, that men may call them, The City of Righteo
 the Faithful City.
 (Isa. 1:26)
 
+[.signed-section-signature]
 William Ellis.
 
-London, the 20th of the 6th mo.
-1697.
+[.signed-section-context-close]
+London, the 20th of the 6th mo. 1697.
 
+--
+
+[.offset]
 Roger Haydock died on the 8th of 3rd month, 1696, aged 53.

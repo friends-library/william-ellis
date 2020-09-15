@@ -1,9 +1,17 @@
 == Chapter IV.
 
-Certificates to America.--Aaron Atkinson--Letters from John Tomkins to
-William Ellis--from William Ellis to Thomas Aldam--to John Hall--and to
-Alice Ellis--Memoranda made at sea--Letters from Francis Plumstead--John
-Tomkins to Alice Ellis--William Ellis to Alice Elli,--to Thomas Aldam.
+[.chapter-synopsis]
+* Certificates to America
+* Aaron Atkinson
+* Letters from John Tomkins to William Ellis
+* from William Ellis to Thomas Aldam
+* to John Hall
+* and to Alice Ellis
+* Memoranda made at sea
+* Letters from Francis Plumstead
+* John Tomkins to Alice Ellis
+* William Ellis to Alice Ellis
+* to Thomas Aldam
 
 The certificates with which William Ellis was furnished
 on his going to America having been preserved,
@@ -15,15 +23,19 @@ William Ellis appears to have felt released from the exercise
 which had attended his mind respecting the West Indies,
 noticed in the previous letters, and to have returned to England before his friend.
 
-From Settle Monthly Meeting, in the County of York, in Old England,
-the 1st day of the 7th mo.
-1697:
+[.embedded-content-document.testimony]
+--
 
+[.blurb]
+=== From Settle Monthly Meeting, in the County of York, in Old England, the 1st day of the 7th mo. 1697:
+
+[.letter-heading]
 To our friends and brethren in the unchangeable Truth of our Lord Jesus Christ,
 in America, or elsewhere (whom it may concern),
-whom He hath called to believe in the light of his Son.
+whom He has called to believe in the light of his Son.
 
-Grace and peace be multiplied in and amongst you.
+[.salutation]
+Grace and peace be multiplied in and among you.
 
 Now these are to certify you, that our dear friend and brother, William Ellis,
 hath given us to understand, that it hath been in his mind, in the love of God,
@@ -48,12 +60,17 @@ according to that ability God hath given him, in word and doctrine,
 and what else the Lord may be pleased to concern him in, for the glory of his Name,
 and the good and benefit of his church and people.
 
+[.signed-section-closing]
 Signed on behalf of our aforesaid meeting, the day and year abovesaid, by
 
+[.signed-section-signature]
 Samuel Watson, John Moore, George Atkinson, John Armistead, John Battersbie, John Kidd,
 John Robinson, William Windle, Richard Ibason, Richard Wilkinson, George Lemin,
 Thomas Wild, John Moore, Adam Squire, Henry King, Christopher Foster, Thomas Carr,
 Thomas Chapman, Thomas Stockdale.
+
+[.asterism]
+'''
 
 We whose names are here under-written, being members of the Quarterly Meeting at York,
 being this day acquainted by our dear friend, William Ellis,
@@ -72,8 +89,10 @@ and hope it will be so with all honest Friends where the Lord shall order him.
 
 This from our Quarterly Meeting at York, this 22nd of the 7th month, 1697.
 
+[.signed-section-closing]
 Subscribed on the behalf of our said meeting, by
 
+[.signed-section-signature]
 John Blaykling, Michael Lazenby, John Taylor, John Jepson, Thomas Aldam,
 Marmaduke Beckwith, Thomas Musgrave, John Burgess, Stephen Wynn, George Canby, John Hall,
 Francis Harrison, Thomas Thompson, John Walker, John Loft, Bossall Middleton,
@@ -81,6 +100,8 @@ Thomas Pinder, William White, William Sharpe, James Rich, Stephen Hunter,
 Alexander Hopwood, Thomas Greene, John Smith, Peter Hardcastle, John Burleigh, Sr.,
 Michael Milner, Thomas Buck, Francis Thompson, William Thompson, John Harding,
 Thomas Johnson, Thomas Hammond, Abraham Kindell, John Bradford, Charles Cannabie
+
+--
 
 Aaron Atkinson, the companion of William Ellis, was born at Moss Thorn,
 in the parish of Stapleton, in Cumberland, in 1665,
@@ -97,16 +118,21 @@ Whilst in the vigour of life, he travelled much in the service of his divine Mas
 He died at Leeds, where he had for some time resided, in 1740, aged about 75 years.
 
 John Tomkins, the writer of the following letter, was a minister amongst Friends,
-and the compiler of the first three parts of "`Piety Promoted,`"
+and the compiler of the first three parts of [.book-title]#Piety Promoted#,
 in the fourth part of which there is a notice of him:
 he died in London in 1706, aged about 43 years.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Tomkins to William Ellis and Aaron Atkinson
 
-London, the 1st of the 10th mo.
-1697.
+[.signed-section-context-open]
+London, the 1st of the 10th mo. 1697.
 
-Dear Friends, William Ellis and Aaron Atkinson.
+[.salutation]
+Dear Friends, William Ellis and Aaron Atkinson;
 
 These are intended as a memorandum,
 to put you in mind of my request,--That if it please God you arrive at West Jersey,
@@ -183,9 +209,13 @@ Farewell, dear friends!
 In the love of God and holy fellowship in the Truth, doth my soul salute you,
 and take my leave.
 
+[.signed-section-closing]
 I am your friend and brother, and one who prayeth for the prosperity of Zion.
 
+[.signed-section-signature]
 John Tomkins.
+
+--
 
 Thomas Aldam, of Warmsworth or Warnsworth, near Doncaster,
 to whom the following letter was addressed,
@@ -197,14 +227,19 @@ and was one of the first of their society who were
 imprisoned on a religious account in York Castle,
 by the high, but unchristian and unreasonable, professors of Christianity in that day.
 He died in 1660.
-See Piety Promoted, Vol.
+See [.book-title]#Piety Promoted#, Vol.
 I+++.+++ Part 2.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Ellis to Thomas Aldam.
 
-London, the 4th of the 10th mo.
-1697.
+[.signed-section-context-open]
+London, the 4th of the 10th mo. 1697.
 
+[.salutation]
 Dear Friend, T. Aldam, whom I dearly love;
 
 These are to let thee know that the time of our departure from hence is this day.
@@ -238,17 +273,27 @@ I see there are many that God is raising up, to work the work of their day,
 in truth and righteousness.
 
 With dear love to thee, thy wife, children, and Friends with thee, I shall remain,
-thy real friend,
 
+[.signed-section-closing]
+Thy real friend,
+
+[.signed-section-signature]
 William Ellis.
+
+--
 
 John Hall, of Skipton, to whom the following letter is addressed,
 joined Friends by convincement in a silent meeting: he became a minister in the Society,
 and was a sufferer with many others in that day for his faithfulness to Christ,
 his Lord and Master.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Ellis to John Hall, of Skipton.
 
+[.salutation]
 Dear Friend;
 
 After dear love to thee and honest Friends who know me, by these thou mayst understand,
@@ -284,14 +329,22 @@ My love to Abigail Stott, Ann Kingshal, and thy wife;
 they helped me much in the day of my convincement.
 With my love once more to thyself and Friends, I rest thy real friend,
 
+[.signed-section-signature]
 William Ellis.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Ellis to His Wife
 
-From Deal, on the Kentish Sea Coast, the 8th of 10th mo.
-1697.
+[.signed-section-context-open]
+From Deal, on the Kentish Sea Coast, the 8th of 10th mo. 1697.
 
-Dear And Loving Wife,
+[.salutation]
+Dear and Loving Wife,
 
 After dear love to thee, by this know, that I thought good to give thee a few lines,
 to let thee know where I am, because I have no more known time to do it.
@@ -329,14 +382,23 @@ fail not to pay my father`'s debts when thou hast paid mine.
 My love to all my men; bid them love Truth with their whole hearts:
 and if they serve thee with sincerity, the Lord will greatly bless them.
 So with dear love to thee, and all Friends as thou seest meet,
+
+[.signed-section-closing]
 I remain thy truly loving husband,
 
+[.signed-section-signature]
 William Ellis.
 
-Memoranda of William Ellis
+--
 
-The 4th day of the 9th mo. 1697.
-Made at Sea.--Then was the time I left my country, and took my journey for London,
+[.embedded-content-document.paper]
+--
+
+[.blurb]
+=== Memoranda of William Ellis
+
+_The 4th day of the 9th mo. 1697.
+Made at Sea._--Then was the time I left my country, and took my journey for London,
 in order to visit Friends in America.
 I stayed in London till the 4th day of the 10th month following, and then went to Deal,
 near to Dover.
@@ -345,7 +407,10 @@ and lay there wind-bound till the 15th, and then set sail for America with a fai
 On the 21st, a boy fell overboard into the sea, and was drowned,
 and about the same time another died and was cast over, and buried also in the sea.
 
-The 7th day of the 11th mo. 1697.
+[.small-break]
+'''
+
+_The 7th day of the 11th mo. 1697._--
 Now concerning Collections, let every one give freely of his substance;
 and let none complain of being overcharged, neither deny their substance to the church,
 neither say, I have but very little; but remember Ananias and Sapphira.
@@ -358,8 +423,11 @@ and let every word be duly considered before it be spoken.
 So will your meetings grow in gravity;
 and the Lord will give the spirit of a sound mind to guide you in all your concerns.
 
-The 9th day of the 11th mo.
-1697--We had a meeting, and through deep travail of mind,
+[.small-break]
+'''
+
+_The 9th day of the 11th mo.
+1697_--We had a meeting, and through deep travail of mind,
 the Lord answered and filled my heart with the sense of the good things of his kingdom.
 And the night following, I awaked, when the seas tossed;
 and immediately a fresh feeling opened upon me that the Lord`'s power was over the seas,
@@ -374,15 +442,22 @@ yet it is good to labour to take it thankfully, at the hand of the Lord:
 for those that do so in patience may be sure that the Lord
 will give them to drink of the cup of consolation.
 
+--
+
 Francis Plumstead, the writer of the following letter, was an ironmonger,
 in Duke`'s Place, Houndsditch, London, and a useful member of the Society of Friends:
 he died in 1710, aged 60.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Francis Plumstead to William Ellis
 
-London, the 25th of the 10th mo.
-1697.
+[.signed-section-context-open]
+London, the 25th of the 10th mo. 1697.
 
+[.salutation]
 My dear and nearly beloved Friend, William Ellis;
 
 I hope thou receivedst my few lines in the Downs, but because I am not certain thereof,
@@ -416,13 +491,21 @@ in the particular and in the general, the prosperity and increase of which,
 is all they desire.
 Our dear love is to thyself and to all dear Friends; so I remain thy dearly loving friend,
 
+[.signed-section-signature]
 Francis Plumstead.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Tomkins to Alice Ellis.
 
-London, the 3rd of the 12th mo.
-1697.
+[.signed-section-context-open]
+London, the 3rd of the 12th mo. 1697.
 
+[.salutation]
 Dear Friend;
 
 With dear love to thee, for thy dear husband`'s sake,
@@ -442,14 +525,22 @@ in giving thee a plentiful portion of his love, life, and presence, even in this
 besides in the world to come,
 an everlasting inheritance of glory with his saints and servants, world without end.
 
+[.signed-section-signature]
 John Tomkins.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Ellis to His Wife
 
-Maryland, the 22nd of the 1st mo.
-1697.
+[.signed-section-context-open]
+Maryland, the 22nd of the 1st mo. 1697.
 
-Dear And Loving Wife;
+[.salutation]
+Dear and Loving Wife;
 
 After my true and unfeigned love to thee,
 which doth so abound that I cannot express it with ink and pen,
@@ -500,14 +591,24 @@ I have abundance in my mind to say to thee, but time fails,
 but I hope to write again in three or four months time.
 So with my love to Friends in general, I rest,
 
+[.signed-section-closing]
 Thy truly loving husband,
 
+[.signed-section-signature]
 William Ellis.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Ellis to Thomas Aldam.
 
+[.signed-section-context-open]
 Maryland, the 22nd of 1st mo. 1691.
 
+[.salutation]
 Dear Friend, whom I love in truth, and for the Truth`'s sake;
 
 These few lines I have written unto thee, to let thee and Friends know of my arrival,
@@ -567,6 +668,10 @@ Remember my dear love to Friends of the morning-meeting.
 I desire thee to send a copy of this to my wife.
 So with true love unto thee, thy wife, children and friends, wishing all your welfare,
 
+[.signed-section-closing]
 I rest thy Friend in the Truth,
 
+[.signed-section-signature]
 William Ellis.
+
+--

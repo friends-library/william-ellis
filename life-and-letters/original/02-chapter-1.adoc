@@ -1,10 +1,16 @@
 == Chapter I.
 
-Locality of Airton--Parentage of William Ellis--Meeting held by R. Haydock--Convincement,
-Character,
-and Settlement of William Ellis--Commencement of his ministry--Marriage--Character of
-Alice Ellis--Notices of John Richardson and Mary Frost--Letters from John Real,
-Thomas Qwin, and James Tatham--Birth and death of Jonathan Ellis.
+[.chapter-synopsis]
+* Locality of Airton
+* Parentage of William Ellis
+* Meeting held by R. Haydock
+* Convincement, Character, and Settlement of William Ellis
+* Commencement of his ministry
+* Marriage
+* Character of Alice Ellis
+* Notices of John Richardson and Mary Frost
+* Letters from John Real, Thomas Qwin, and James Tatham
+* Birth and death of Jonathan Ellis
 
 Among the grassy hills in the upper part of Airdale, in the West-Riding of Yorkshire,
 a group of villages, named Airton, Calton, and Scostrop,
@@ -16,9 +22,9 @@ In one of these villages a cotton manufactory is now carried on;
 but in former days many of the inhabitants were hand-loom linen-weavers.
 Of this class, in the 17th century, was Stephen Ellis, of Calton,
 who had several children, and whose son William was born on the 5th of the 8th month,
-1658.;
+1658.
 
-William Ellis lived with his father until he attained, his sixteenth year,
+William Ellis lived with his father until he attained his sixteenth year,
 and he then removed to Skipton, having engaged himself to John Stott, of that place,
 who was also a linen-weaver, and who, with his wife, had joined the Society of Friends.
 Two years after William Ellis had removed to Skipton, Edger Haydock,
@@ -118,12 +124,14 @@ of the York Friends`' Tract Association.--Mary Frost was from North Shields;
 she also must have been young at the time of this visit,
 and must have attained to an advanced age, as she died in 1756.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Real to William Ellis.
 
-Launceston, 1st of the 1st mo.
-1691.
-
-To William Ellis.
+[.signed-section-context-open]
+Launceston, 1st of the 1st mo. 1691.
 
 My dear and loving friend,
 unto whom my love flows and abounds! in the blessed and unchangeable Truth of our God,
@@ -151,9 +159,13 @@ Glory and praise to the name of the Great God forevermore!
 I have not time to enlarge to thee at present; but this take,
 as the remembrance of my dear and unfeigned love, wherewith I bid thee Farewell.
 
+[.signed-section-closing]
 Give my dear love to thy wife, though unknown.
 
+[.signed-section-signature]
 John Real.
+
+--
 
 By the subjoined letter,
 it appears that William and Alice Ellis had a son who was named Jonathan.
@@ -166,10 +178,16 @@ one of the earliest of these was addressed "`To the
 children of Friends and other young people.`"
 He died in 1720, aged about 64 years.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Gwin to William Ellis.
 
+[.signed-section-context-open]
 Falmouth, 2nd of 10th mo., 1692.
 
+[.salutation]
 Dear William Ellis,
 
 Thy acceptable lines I received, and am glad that myself with many Friends more,
@@ -211,7 +229,10 @@ being made witnesses of the operation of his Divine Power,
 by which they are stirred up to speak forth his praise.
 I am, dear William, thy friend and brother in the fellowship and bond of Truth.
 
+[.signed-section-signature]
 Thomas Gwin.
+
+--
 
 The following expression of condolence shows that William and Alice
 Ellis were soon called upon to give up their only child.
@@ -219,11 +240,16 @@ James Tatham, the writer, was a native of Wray, near Lancaster,
 and was a brother of John Tathain, mentioned in page 9:
 he had settled as a grocer in Whitechapel, London, where he died in 1703, aged 52 years.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 James Tatham to William Ellis
 
-London, 15th of 5th mo.
-1693.
+[.signed-section-context-open]
+London, 15th of 5th mo. 1693.
 
+[.salutation]
 Dear Friend,
 
 I received thine, whereby I understand that thou got well home, at which I was glad;
@@ -234,4 +260,7 @@ where there is peace and joy forevermore.--I shall not be tedious at this time,
 hoping thou wilt be sensible by this, what is in my heart.
 We must leave all to the Lord, and to his ordering hand of Providence.
 
+[.signed-section-signature]
 James Tatham.
+
+--

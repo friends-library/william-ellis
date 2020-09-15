@@ -1,8 +1,10 @@
 == Chapter XVIII.
 
-The Testimony of Alice Ellis concerning her Husband--Thomas Thompson`'s Testimony concerning
-William Ellis--A Brief Account of the Life and Death of William Ellis from Settle Monthly
-Meeting--The Testimony of York Quarterly Meeting concerning William Ellis.
+[.chapter-synopsis]
+* The Testimony of Alice Ellis concerning her Husband
+* Thomas Thompson`'s Testimony concerning William Ellis
+* A Brief Account of the Life and Death of William Ellis from Settle Monthly Meeting
+* The Testimony of York Quarterly Meeting concerning William Ellis
 
 The following Testimonies respecting William Ellis were printed in a pamphlet entitled,
 "`A Brief Account of the Life and Death,
@@ -13,6 +15,10 @@ Few copies of this tract, are now to be found;
 it presents a summary of the life and labours of William Ellis,
 and consequently claims a place in this volume.
 
+[.embedded-content-document.testimony]
+--
+
+[.letter-heading]
 The Testimony of Alice Ellis concerning her dear husband.
 
 He was a man that feared God and eschewed evil: his delight was in Truth`'s prosperity;
@@ -52,11 +58,18 @@ and will feed the flock of Christ, of a willing mind, I shall conclude,
 and am a well-wisher to Zion`'s prosperity,
 and to all such as love the Truth of our Lord Jesus Christ.
 
+[.signed-section-signature]
 Alice Ellis.
 
-The 10th of 2nd mo.
-1710.
+[.signed-section-context-close]
+The 10th of 2nd mo. 1710.
 
+--
+
+[.embedded-content-document.testimony]
+--
+
+[.letter-heading]
 Thomas Thompson`'s Testimony concerning William Ellis.
 
 It is in my heart to give forth this testimony concerning
@@ -125,13 +138,18 @@ was a continued series of evidences of the goodness of God,
 the Almighty helped him so to walk and finish his course,
 as that he hath left a good savour behind him, and his memorial is precious.
 
+[.signed-section-signature]
 Thomas Thompson.
 
-Hitchen, Hertfordshire,
+[.signed-section-context-close]
+Hitchen, Hertfordshire, 31st of the 5th mo. 1710.
 
-31st of the 5th mo.
-1710.
+--
 
+[.embedded-content-document.testimony]
+--
+
+[.letter-heading]
 A Brief Account of the Life and Death of William Ellis, from Settle Monthly Meeting.
 
 William Ellis, son of Stephen Ellis, of Calton,
@@ -363,15 +381,23 @@ William Ellis was born the 5th of the 8th month, 1658,
 convinced of Truth in the 3rd month, 1676, came forth in a public testimony, 1679,
 died the 4th of the 4th month, 1709.
 
+[.signed-section-closing]
 Signed in behalf of our Monthly Meeting, held at Settle, the second of the First Month,
 1709, by
 
+[.signed-section-signature]
 John Armistead, Sr., William Holt, Thomas Head, John King, John Tomlinson, Lawrence King,
 Richard Wilkinson, Adam Squire, Thomas Wilde, Thomas Carr, John Moore, Sr.,
 William Windle, John Atkinson, Robert Tunstall, John Weatherall, William Birkbeck,
 Isaac Armistead, John Armistead, Jr., Simeon Wilkinson, John Bawson, Joseph Hall,
 Richard Clough, William Stockdale, John Battersbie, William Slater, John Moore, Jr.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 The Testimony of the Quarterly Meeting held at York, concerning William Ellis.
 
 Our dear friend and deceased brother, William Ellis, of Airton,
@@ -415,9 +441,13 @@ to send many such faithful labourers into his harvest.
 As he lived in the Truth, so we believe he died in the Lord,
 and now is at rest from his labours, and his works follow him.
 
+[.signed-section-closing]
 Signed on behalf of our Quarterly Meeting, held at York, the 6th of the 2nd month, 1710.
 
+[.signed-section-signature]
 Thomas Green, Thomas Aldam, Benjamin Hornor, Jeremiah Grimshaw, Robert Turner,
 John Fothergill, James Simpson, John Richardson, Michael Robinson, Aaron Atkinson,
 John Hillary, William Armistead, John Fielden, Francis Smith, Thomas Hammond,
 Henry Jackson, Jr.
+
+--

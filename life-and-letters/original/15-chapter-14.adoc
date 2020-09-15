@@ -1,14 +1,22 @@
 == Chapter XIV.
 
-Notice of William Biles--Letters from William Biles and
-Nathan Newby--Notice of John Estaugh--Letter from Francis Tomes--Notice of Thomas Thompson
-and letter from him--Notice of Josiah Langdale--Letter from John Tomkins--Notices of
-Henry Gouldney and Ann Wilson--Letter from Henry Gouldney--Notices of John Fothergill
-and William Armistead--Letter to Richard Johns--Letters from William Armistead,
-John Rodman, and Thomas Aldam--Notice of Sir John Rhodes, and letter from him.
+[.chapter-synopsis]
+* Notice of William Biles
+* Letters from William Biles and Nathan Newby
+* Notice of John Estaugh
+* Letter from Francis Tomes
+* Notice of Thomas Thompson and letter from him
+* Notice of Josiah Langdale
+* Letter from John Tomkins
+* Notices of Henry Gouldney and Ann Wilson
+* Letter from Henry Gouldney
+* Notices of John Fothergill and William Armistead
+* Letter to Richard Johns
+* Letters from William Armistead, John Rodman, and Thomas Aldam
+* Notice of Sir John Rhodes, and letter from him
 
 William Biles, the writer of the following letter,
-is described by Proud in his History of Pennsylvania, Vol. I. page 237,
+is described by Proud in his [.book-title]#History of Pennsylvania#, Vol. I. page 237,
 as a preacher among the Quakers, and as being among the first settlers;
 and to have taken up land under Governor Andros, of New York,
 prior to William Penn`'s grant of the province.
@@ -17,10 +25,16 @@ and to have resided near the Lower Falls of the Delaware, in Bucks County;
 and to have been elected a member of William Penn`'s first Council, in 1683.
 He is said to have been a very useful person both in a civil and religious capacity.
 
-William Biles to William Ellis
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+William Biles to William Ellis.
+
+[.signed-section-context-open]
 Philadelphia, in Pennsylvania, 1699.
 
+[.salutation]
 Dear Friend, William Ellis;
 
 In a measure of that universal Spirit of love and
@@ -71,14 +85,24 @@ for I look upon the coming of so many together in that ship,
 to be a great cause of their loss.
 I have not much to add, save kind love to thee once more,
 
+[.signed-section-closing]
 From thy loving friend,
 
+[.signed-section-signature]
 William Biles.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Nathan Newby to William Ellis.
 
+[.signed-section-context-open]
 From the Southern Bank of Nancemund, 1701.
 
+[.salutation]
 Dear Friend, William Ellis;
 
 This is to let thee know, that I received thy letter, by our well-beloved friend,
@@ -128,9 +152,14 @@ I must conclude and rest thy unfeigned friend in the Truth,
 desiring nothing so much as the prosperity of the blessed Truth of our Lord;
 and to him I commit thee and myself,
 desiring that we may always be guided and ordered by his divine hand.
+
+[.signed-section-closing]
 Mine and my wife`'s dear love to thee.
 
+[.signed-section-signature]
 Nathan Newby.
+
+--
 
 John Estaugh, who is noticed in the following letter, was born at Kelvedon in Essex,
 in 1676: he joined Friends when about 17 years of age,
@@ -147,10 +176,16 @@ John Estaugh is described in a Testimony from Haddonfield Monthly Meeting,
 as a humble-minded, exemplary Friend, of a solid and grave deportment,
 well becoming a minister of Christ.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Francis Tomes to William Ellis.
 
+[.signed-section-context-open]
 1701.
 
+[.salutation]
 Dear Friend, William Ellis,
 
 Thine I received from the hand of John Richardson, a blessed memorial.
@@ -171,9 +206,13 @@ and Gabriel Newby`'s and several other Friends`' love is to thee;
 so with mine and my wife`'s dear love to thee and all Friends, though so far asunder,
 I take my leave of thee,
 
+[.signed-section-closing]
 And bid thee Farewell!
 
+[.signed-section-signature]
 Francis Tomes.
+
+--
 
 Thomas Thompson, the writer of the following letter,
 was a native of the East-Riding of Yorkshire, but resided at Saffron Walden, in Essex:
@@ -184,12 +223,18 @@ he adopted a declaration like that of the apostle Paul, saying,
 "`I have fought a good fight; I have finished my course.
 Henceforth is laid up for me a crown of glory,
 which God the righteous Judge shall give me at the last day; and not to me only,
-but to those who love his appearance.`"--See Piety Promoted, Part IX.
+but to those who love his appearance.`"--See [.book-title]#Piety Promoted#, Part IX.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Thompson to William Ellis.
 
+[.signed-section-context-open]
 New England, 1703.
 
+[.salutation]
 Dear William Ellis;
 
 A letter of thine bearing date about when we left England, coming lately to my hand,
@@ -238,23 +283,32 @@ And dear friend! let me be remembered by thee in thy nearest approaches to the L
 in the feeling of whose divine power my soul salutes thee with thy dear wife,
 and bids thee dearly Farewell!
 
+[.signed-section-closing]
 From thy true friend,
 
+[.signed-section-signature]
 Thomas Thompson.
+
+--
 
 Josiah Longdale, mentioned in this letter, was from Bridlington:
 he visited America as a minister in 1700, and again in 1714;
 and in 1723 he embarked with his family, with the intention of settling there;
 but he was taken ill soon after sailing, and died on the passage,
 making a peaceful close.
-Some time afterwards his widow became the wife of Samuel Preston.--See American Memorials,
+Some time afterwards his widow became the wife of Samuel Preston.--[.book-title]#See American Memorials#,
 page 118.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Tompkins to William Ellis.
 
-London, the 4th of 2nd mo.
-1704.
+[.signed-section-context-open]
+London, the 4th of 2nd mo. 1704.
 
+[.salutation]
 Dear Friend, William Ellis;
 
 I have thy letter dated 25th of 1st mo.
@@ -286,9 +340,13 @@ Come and see us, and be partaker with us, of that joy and gladness of soul,
 which we trust the Lord will fill us with, when he brings us together again.
 I am straitened for time, so must conclude in true love,
 
+[.signed-section-closing]
 Thy true friend and brother,
 
+[.signed-section-signature]
 John Tomkins.
+
+--
 
 Henry Gouldney, the writer of the following letter, resided in White Hart Court,
 Lombard-street, London.
@@ -302,14 +360,19 @@ Ann Wilson, noticed in the following letter, was probably the same,
 that about eight years before, by a simple communication in the ministry,
 when at Brigflats Meeting near Sedbergh in Yorkshire, on a religious visit,
 was instrumental in awakening Samuel Bownas to a
-religious life.--See Life of Samuel Bownas.
+religious life.--See [.book-title]#Life of Samuel Bownas#.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Henry Gouldney to William Ellis.
 
-London, 8th of the 2nd mo.
-1704.
+[.signed-section-context-open]
+London, 8th of the 2nd mo. 1704.
 
-Dear Friend, Wk. Ellis;
+[.salutation]
+Dear Friend, William Ellis;
 
 The present circumstances of trade are such as that I am sorry they will not answer,
 otherwise I should have desired a further correspondence on that subject,
@@ -360,9 +423,13 @@ Ann Wilson, that was here lately, visited us,
 and had a service to her own and Friends satisfaction.
 I am, with mine and my wife`'s dear love to thee and thine, and all Friends,
 
+[.signed-section-closing]
 Thy real friend,
 
+[.signed-section-signature]
 Henry Gouldney.
+
+--
 
 John Fothergill, who is noticed in the following letter,
 and was the writer of a subsequent one in this volume,
@@ -377,7 +444,7 @@ In his twenty-second year he paid a religious visit to Scotland,
 and he subsequently visited various parts of Great Britain, Ireland, and America.
 He was about 30 years of age when he paid his first visit to America:
 he resided for some years at Knaresborough, where he died in 1744,
-aged 69 years.--See Memoirs of Samuel Fothergill; also Piety Promoted, Part VIII.
+aged 69 years.--See [.book-title]#Memoirs of Samuel Fothergill#; also [.book-title]#Piety Promoted#, Part VIII.
 
 William Armistead, the companion of John Fothergill,
 and the writer of two letters in this collection,
@@ -390,11 +457,17 @@ but he settled in London in 1712,
 and became one of the Correspondents of York Quarterly Meeting:
 he died of consumption on the 19th of 3rd month, 1731, aged 56 years.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Ellis to Richard Johns.
 
+[.signed-section-context-open]
 Airton, 1704.
 
-To Richard Johns.
+[.salutation]
+To Richard Johns;
 
 By this know, that it hath been often in my mind to write to thee,
 but I have been prevented; so having this opportunity, I was not willing to pass it by,
@@ -429,15 +502,24 @@ men that I look for a great deal of good service out of, if they live; and if th
 you may receive them as such.
 So with true and unfeigned love to thee and thy wife, I rest
 
+[.signed-section-closing]
 Thy true friend,
 
+[.signed-section-signature]
 William Ellis.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Armistead to William Ellis.
 
-London, 27th of 2nd mo.
-1704.
+[.signed-section-context-open]
+London, 27th of 2nd mo. 1704.
 
+[.salutation]
 Dear Friend, William Ellis;
 
 These lines are to let thee know that through the Lord`'s
@@ -472,18 +554,27 @@ which makes me a little wonder.
 My dear love is to thee and thy wife, and your family, and faithful Friends in general,
 and to my relations when thou hast opportunity.
 
+[.signed-section-closing]
 From thy truly loving friend,
 
+[.signed-section-signature]
 William Armistead.
+
+--
 
 The writer of the following letter is incidently mentioned by Samuel Bownas, page 82,
 edition 1846, as "`a worthy Friend, John Rodman by name.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Rodman to William Ellis.
 
-New York, 21st of 11th mo.
-1704.
+[.signed-section-context-open]
+New York, 21st of 11th mo. 1704.
 
+[.salutation]
 Dear And Esteemed Friend, William Ellis;
 
 In that love that is unchangeable, do I dearly salute thee,
@@ -516,15 +607,24 @@ and be found a faithful steward, doing the will of the great God.
 My dear love to Friends, and more particularly to those that have travelled amongst us,
 as thou hast opportunity.
 
+[.signed-section-closing]
 So rests thy well-wishing friend,
 
+[.signed-section-signature]
 John Rodman.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Aldam to William Ellis.
 
-Warmsworth, 20th of 10th mo.
-1705.
+[.signed-section-context-open]
+Warmsworth, 20th of 10th mo. 1705.
 
+[.salutation]
 Esteemed Friend, William Ellis;
 
 My love in the unchangeable Truth doth hereby salute thee,
@@ -568,9 +668,13 @@ in which our true unity is preserved.
 If I be not there, I should be glad to hear of thy being there if the Lord enable thee.
 I have not room to enlarge, but committing thee with myself to the Lord our preserver.
 
+[.signed-section-closing]
 I remain thy friend and brother in the Truth,
 
+[.signed-section-signature]
 Thomas Aldam.
+
+--
 
 Sir John Rhodes, Bart, the writer of the following letter, resided at Balber Hall,
 in Derbyshire, but belonged to the meeting at Handsworth Woodhouse, near Sheffield.
@@ -587,13 +691,19 @@ and the friendship and fellowship of the faithful and sanctified in Christ.
 Sir John Rhodes remained single to the end of his days and lived a retired life,
 which rendered the brightness of his talents less
 conspicuous than might otherwise have been the case.
-He died about 1746.--See Life of Thomas Story, fol.
+He died about 1746.--See [.book-title]#Life of Thomas Story#, fol.
 pages 90, 465, 684, 787.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Rhodes to William Ellis.
 
+[.signed-section-context-open]
 Balber, in the Year 1705.
 
+[.salutation]
 Much Esteemed Friend, William Ellis;
 
 My dear love salutes thee, for the Truth`'s sake,
@@ -639,6 +749,10 @@ and be in bitterness for it, that I might witness his great salvation and remiss
 I must conclude with dear love to thee and thy kind wife.
 I hope to remain
 
+[.signed-section-closing]
 Thy loving and obliged friend for the Truth`'s sake,
 
+[.signed-section-signature]
 John Rhodes.
+
+--

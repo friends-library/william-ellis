@@ -1,11 +1,13 @@
 == Chapter XIX.
 
-Meetinghouse at Airton--William Ellis`'s House--Provision for the Free
-Entertainment of Ministering Friends--William and Alice Ellis`'s Gift
-for Putting out Apprentices--Alice Ellis`'s Legacies and Arrangements
-for the Entertainment of Friends--Decease of Alice Ellis,
-and Testimony Concerning Her--Present state of Airton Meeting,
-and Settle Monthly Meeting.
+[.chapter-synopsis]
+* Meetinghouse at Airton
+* William Ellis`'s House
+* Provision for the Free Entertainment of Ministering Friends
+* William and Alice Ellis`'s Gift for Putting out Apprentices
+* Alice Ellis`'s Legacies and Arrangements for the Entertainment of Friends
+* Decease of Alice Ellis, and Testimony Concerning Her
+* Present state of Airton Meeting, and Settle Monthly Meeting
 
 The Meetinghouse at Airton, which is represented in the frontispiece of this volume,
 as sketched by Thomas Tatham, of Settle, stands with its back to the village street.
@@ -144,10 +146,13 @@ Her decease is not to be found in the register of the Monthly Meeting;
 but the following Testimony, with the notice of her death and burial,
 was found among some loose papers, preserved with the records of Settle Monthly Meeting.
 
-Alice Ellis, wife of William Ellis, late of Airton, in the County of York,
-died the 27th of the 5th month, and was buried the 30th of the same,
-in Friends`' burying ground, at Airton aforesaid, in the year 1720.
+[.embedded-content-document.testimony]
+--
 
+[.blurb]
+=== Alice Ellis, wife of William Ellis, late of Airton, in the County of York, died the 27th of the 5th month, and was buried the 30th of the same, in Friends`' burying ground, at Airton aforesaid, in the year 1720.
+
+[.letter-heading]
 A Short Testimony, given by Friends of Settle Monthly Meeting, concerning Alice Ellis,
 deceased.
 
@@ -239,14 +244,18 @@ in the year 1720, many Friends and others being there.
 Divers living testimonies were borne to the comfort of Friends;
 and also several others signified their great satisfaction therewith.
 
+[.signed-section-closing]
 Signed by order and in behalf of our Monthly Meeting, held at Settle in Yorkshire,
 the 1st of 1st mo.
 1720-21, by
 
+[.signed-section-signature]
 John Atkinson, William Holt, Thomas Clarke, Simeon Wilkinson, John Rawson, Joseph Hall,
 William Stockdale, Julian Frankland, Eleanor Carr, Alice Atkinson, Elizabeth Hall, Eliz.
 Bradley, Hannah Wilkinson, Eliz.
 Armistead.
+
+--
 
 The present tenant of the house at Airton, formerly occupied by William and Alice Ellis,
 is John Shackleton, a Friend, who, with his family,
