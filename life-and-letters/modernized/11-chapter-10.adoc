@@ -1,19 +1,27 @@
 == Chapter X.
 
-Letters from William Ellis to Theodore Eccleston, William Edmundson,
-Richard Johns--Notice of John Haydock--Letter to Samuel Galloway and others--to William
-Ellis from Gilbert Thompson--Notice of Richard Hill--Letters from John Tomkins,
-and William Edmundson.
+[.chapter-synopsis]
+* Letters from William Ellis to Theodore Eccleston, William Edmundson, Richard Johns
+* Notice of John Haydock
+* Letter to Samuel Galloway and others
+* to William Ellis from Gilbert Thompson
+* Notice of Richard Hill
+* Letters from John Tomkins, and William Edmundson
 
 The letters in this chapter relate chiefly to the services of William Ellis in America,
 and to his return from there.
 They also contain much excellent counsel.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Ellis to Theodore Eccleston.
 
-Airton, the 3rd of the 5th mo.
-1699.
+[.signed-section-context-open]
+Airton, the 3rd of the 5th mo. 1699.
 
+[.salutation]
 Kind Friend!
 
 This with good wishes for the increase of peace and love among the brethren,
@@ -79,15 +87,25 @@ and I am greatly glad thereof.
 My wife tells me of your kindness to her, and we together acknowledge it.
 With true love to you and yours, and to Friends,
 
+[.signed-section-closing]
 I remain your real friend,
 
+[.signed-section-signature]
 William Ellis.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Ellis to William Edmundson.
 
+[.signed-section-context-open]
 Airton, the 3rd of the 5th mo.
 1699.
 
+[.salutation]
 Dear and Much-esteemed Friend;
 
 After the remembrance of my unfeigned love to you, by this know,
@@ -212,9 +230,13 @@ I have written a deal, but could not easily compress it into less compass, else 
 and yet I have given but hints of tilings.
 So with true love to you, your wife, and all Friends where you think fit,
 
+[.signed-section-closing]
 I remain your truly loving friend,
 
+[.signed-section-signature]
 William Ellis.
+
+--
 
 John Haydock, who is mentioned in the following letter,
 was born in the parish of Standish, in Lancashire, in 1640.
@@ -226,13 +248,19 @@ in the exercise of which he travelled much in Great Britain, Ireland and America
 He suffered much persecution,
 with spoiling of goods and imprisonments for righteousness`' sake,
 and died a prisoner in Lancaster Castle, for his testimony to the Truth, in 1719,
-aged 79 years, having been a minister about fifty years.--See Piety Promoted, Part Vn.
+aged 79 years, having been a minister about fifty years.--See [.book-title]#Piety Promoted#, Part VII.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Ellis to Richard Johns.
 
+[.signed-section-context-open]
 Airton, the 31st of the 5th mo.
 1699.
 
+[.salutation]
 Dear Friend,
 
 Whom I truly love for the Truth`'s sake; my true love is to you and yours.
@@ -271,15 +299,24 @@ I was with John Haydock lately, and he was glad to hear of you and of your welfa
 I hope you will not be offended with my thus writing; you know it is not for self-praise.
 This with my true love to you and yours, and all Friends everywhere where you come;
 
+[.signed-section-closing]
 I rest your real Friend,
 
+[.signed-section-signature]
 William Ellis.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Ellis to Samuel Galloway, Solomon Sparrow, William Rix, Samuel Thomas, etc.
 
-Airton, the last of the 5th mo.
-1699.
+[.signed-section-context-open]
+Airton, the last of the 5th mo. 1699.
 
+[.salutation]
 Dear Friends;
 
 After my dear love to you and yours, know that I got well home,
@@ -364,15 +401,24 @@ This is the real desire of your friend.
 My dear love to all Friends where I have travelled;
 and if you think fit to let them see this, you have my consent.
 
+[.signed-section-closing]
 This is from your real friend,
 
+[.signed-section-signature]
 William Ellis.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Gilbert Thompson to William Ellis
 
-Sankey, the 3rd of the 6th mo.
-1699.
+[.signed-section-context-open]
+Sankey, the 3rd of the 6th mo. 1699.
 
+[.salutation]
 Dearly Beloved Friend, William Ellis,
 
 I gladly received yours, with the enclosed to William Edmundson,
@@ -405,9 +451,13 @@ I hope before long we shall see you and your good wife here,
 and be comforted in your company.
 In the mean time my constant true love is remembered, and in it I remain yours.
 
+[.signed-section-closing]
 My wife`'s love is to you both,
 
+[.signed-section-signature]
 Gilbert Thompson.
+
+--
 
 Richard Hill, who is mentioned in the following letter, was a native of Maryland,
 and a useful member of the Society of Friends: he settled in Philadelphia,
@@ -415,7 +465,7 @@ and was twenty-five years a member of the Governor`'s Council,
 and several times Speaker of the Assembly:
 he also filled the office of Commissioner of Property, and was,
 for the last ten years of his life, one of the Provincial Judges.
-Proud in his History of Pennsylvania, Vol. I. page 478,
+Proud in his [.book-title]#History of Pennsylvania#, Vol. I. page 478,
 says respecting him, "`His sound judgment,
 his great esteem for the English constitution and laws,
 his tenderness for the liberty of the subject,
@@ -424,11 +474,16 @@ with his great generosity to proper objects,
 qualified him for the greatest services in every station in which he was engaged,
 and rendered him of very great and uncommon value in the place where he lived.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Tomkins to William Ellis
 
-London, the 9th of the 6th mo.
-1699.
+[.signed-section-context-open]
+London, the 9th of the 6th mo. 1699.
 
+[.salutation]
 Dear Friend, William Ellis;
 
 I received yours dated the last of the last month, and am glad I can serve you;
@@ -458,15 +513,24 @@ Our dear friend, William Penn, intends to take shipping at Southampton,
 on the next Second-day come a week, for Pennsylvania.
 With mine and my dear wife`'s dear love to you both.
 
+[.signed-section-closing]
 I am, dear friend, your real friend and brother,
 
+[.signed-section-signature]
 John Tomkins.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Edmundson to William Ellis
 
-Dublin, the 22nd of the 6th mo.
-1699.
+[.signed-section-context-open]
+Dublin, the 22nd of the 6th mo. 1699.
 
+[.salutation]
 Dear William Ellis;
 
 I received yours,
@@ -516,6 +580,10 @@ when you see them, and to all honest, true-hearted Friends that desire to hear o
 So with my love to you,
 in the fellowship of the Gospel of our Lord and Saviour Jesus Christ;
 
+[.signed-section-closing]
 I am your ancient friend and brother,
 
+[.signed-section-signature]
 William Edmundson.
+
+--

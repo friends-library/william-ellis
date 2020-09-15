@@ -1,8 +1,12 @@
 == Chapter II.
 
-Certificate to Ireland.
-Letters to Alice Ellis--to Friends of Settle Monthly Meeting--from Samuel Randal and
-Joseph Pike,--and to Alice Ellis--Notices of Thomas Trafford and James Dickinson.
+[.chapter-synopsis]
+* Certificate to Ireland
+* Letters to Alice Ellis
+* to Friends of Settle Monthly Meeting
+* from Samuel Randal and Joseph Pike
+* and to Alice Ellis
+* Notices of Thomas Trafford and James Dickinson
 
 The following certificate was given to William Ellis, on his visiting Ireland.
 It is well worthy of notice, as a document of this kind, of very early date,
@@ -13,8 +17,11 @@ The John Tatham who signs it,
 was a predecessor of the present clerk of Settle Monthly-meeting,
 who also bears the same name.
 
-At our Monthly Meeting, at Settle, in the county of York, the 5th of 10th mo.
-1694.
+[.embedded-content-document.testimony]
+--
+
+[.blurb]
+=== At our Monthly Meeting, at Settle, in the county of York, the 5th of 10th mo. 1694.
 
 To our Friends in the unchangeable Truth of our God, in the nation of Ireland,
 whom he hath called to believe in the light of Ms Son:
@@ -40,9 +47,13 @@ to whom be glory forevermore.
 From your Friends and brethren in the Truth, met at the Monthly Meeting at Settle,
 in England, the day and year above written.
 
+[.signed-section-closing]
 Signed on behalf, and by appointment of, the meeting, by
 
+[.signed-section-signature]
 John Tatham.
+
+--
 
 The progress of William Ellis in his visit to Ireland,
 may be gathered from the following letters.
@@ -61,13 +72,18 @@ appears to have paid a religious visit to Ireland in 1690,
 and subsequently to have settled there: he resided at Wicklow,
 and was committed to the jail in that place, in 1701, at the suit of a priest,
 for tithes, and kept there two years.
-See Gough`'s History of Ireland, and Besse`'s Sufferings.
+See Gough`'s [.book-title]#History of Ireland,# and [.book-title]#Besse`'s Sufferings.#
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Ellis to His Wife.
 
-Daiford, in Ireland, 26th of 11th mo.
-1694.
+[.signed-section-context-open]
+Daiford, in Ireland, 26th of 11th mo. 1694.
 
+[.salutation]
 Dear Wife,
 
 After my dear love to thee, by this thou mayst know that I am now in Ireland,
@@ -147,9 +163,15 @@ One thing more I have to tell thee of;
 James Dickinson hath gone through that great city of London, to cry against it.
 My love to sister Jennett Davy and Jennelt Stall, and bid them mind the time,
 to war when they have their armour on.
-So with dear love I rest, thy truly loving husband,
+So with dear love I rest,
 
+[.signed-section-closing]
+Thy truly loving husband,
+
+[.signed-section-signature]
 William Ellis.
+
+--
 
 James Dickinson, referred to in the preceding letter, was from Cumberland:
 he became a minister in early life, and laboured diligently in the exercise of his gift,
@@ -158,11 +180,16 @@ aged 82. The circumstance alluded to by William Ellis
 is recorded in James Dickinson`'s Journal,
 Ed. 1847, page 143.
 
+[.offset]
 The following epistle was probably addressed to Friends of Settle Monthly-meeting.
 
-Cork, the 26th of 12th mo.
-1694.
+[.embedded-content-document.letter]
+--
 
+[.signed-section-context-open]
+Cork, the 26th of 12th mo. 1694.
+
+[.salutation]
 Dearly Beloved Friends,
 
 Though I be separated in body,
@@ -244,20 +271,28 @@ and great is my travail for such as are not what they should be.
 This from your truly loving friend,
 who labours with all his strength to exalt the government of Christ in his generation.
 
+[.signed-section-signature]
 William Ellis.
+
+--
 
 Both the Friends whose names are signed to the following letter,
 were Elders in Cork Meeting,
 and were highly serviceable in the discipline of the society.
-There is a notice of Samuel Randal, in the Sixth Part of Piety Promoted he died in 1718,
-aged about 64: and an account of the life of Joseph Pike, who died in 1727,
+There is a notice of Samuel Randal, in the Sixth Part of [.book-title]#Piety Promoted# he died in 1718,
+aged about 64: and an account of the [.book-title]#Life of Joseph Pike#, who died in 1727,
 aged about 72, was published by John Barclay, in 1837.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Randal and Joseph Pike to William Ellis.
 
-Cork, 14th of 1st mo.
-1695.
+[.signed-section-context-open]
+Cork, 14th of 1st mo. 1695.
 
+[.salutation]
 Dear Friend,
 
 Thine of the 26th of the 8th mo.
@@ -276,17 +311,28 @@ that Truth may more and more enlarge itself in our hearts;
 and self in all its transformings forever be abased, is the earnest desire of our souls;
 and believing the fervent prayers and breathings of the righteous prevail with the Lord,
 we desire to be had in thy remembrance, in the time of thy near approaches to him.
+
+[.signed-section-closing]
 We remain thy truly loving friends,
 
+[.signed-section-signature]
 Samuel Randal.
 
+[.signed-section-signature]
 Joseph Pike.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Ellis to His Wife.
 
-The 30th of the 1st mo.
-1695.
+[.signed-section-context-open]
+The 30th of the 1st mo. 1695.
 
+[.salutation]
 Dear Wife,
 
 After my dear love to thee, for so it is, by this thou mayst know,
@@ -316,6 +362,11 @@ He will be found of him in all his straits.
 My love is to all Friends that love Truth.
 I see we shall have brave times, if that old devil be but cast out, that sits so close,
 and hath so many faces and parts, and is sometimes like a lamb.
+
+[.signed-section-closing]
 This from thy truly loving husband,
 
+[.signed-section-signature]
 William Ellis.
+
+--

@@ -1,9 +1,12 @@
 == Chapter VII.
 
-Notes of a Meeting of Ministering Friends, at Burlington,
-West Jersey--Letter to Alice Ellis--Epistle to Settle Monthly
-Meeting--Letters from Theodore Eccleston to Alice Ellis--to
-Friends appointed as Overseers--Alice Ellis to her husband.
+[.chapter-synopsis]
+* Notes of a Meeting of Ministering Friends, at Burlington, West Jersey
+* Letter to Alice Ellis
+* Epistle to Settle Monthly Meeting
+* Letters from Theodore Eccleston to Alice Ellis
+* to Friends appointed as overseers
+* Alice Ellis to her husband
 
 The following Notes respecting a Meeting held at Burlington, in West Jersey,
 and preserved among the memoranda of William Ellis, are of great interest,
@@ -19,7 +22,7 @@ and is said to have been "`a suppressor of vice, and an encourager of virtue;
 sharp toward evil doers, but tender and loving to them that did well;
 giving good counsel and wholesome advice to friends and neighbours;
 he was an able minister of the Gospel, and laboured much therein,
-to the comfort and edification of many people.`"--See Proud`'s History of Pennsylvania,
+to the comfort and edification of many people.`"--See Proud`'s [.book-title]#History of Pennsylvania#,
 Vol. I. page 157.
 
 Thomas Janney, respecting whom a Testimony was read at tin`'s meeting,
@@ -29,8 +32,8 @@ After residing in America twelve years he revisited
 his native country on a religious account;
 and after travelling through some parts of it, was taken ill.
 He died in Cheshire, among his relations, in 1696, aged 63 years,
-having been a minister forty-two years.--See Piety Promoted,
-Part II. and Proud`'s History of Pennsylvania, Vol. I. page 217.
+having been a minister forty-two years.--See [.book-title]#Piety Promoted#,
+Part II. and Proud`'s [.book-title]#History of Pennsylvania#, Vol. I. page 217.
 
 Elizabeth Webb, noticed as being on a religious visit from England,
 in company with Mary Rogers, from the same country, was from Gloucestershire;
@@ -45,7 +48,7 @@ Letter, in this volume, from Samuel Carpenter, dated 1699.
 
 Caleb Pusey, who produced at this meeting the essay of a controversial work,
 was an emigrant from London, who had settled in Pennsylvania with his family in 1682;
-he is spoken of in Proud`'s History of Pennsylvania, Vol. I. page 837,
+he is spoken of in Proud`'s [.book-title]#History of Pennsylvania#, Vol. I. page 837,
 as having preserved part of the materials from which that work was composed;
 and as having been a man of good example, both in public and private life,
 and esteemed as a worthy Elder among his friends the Quakers.
@@ -56,9 +59,19 @@ one of which was in defence of William Penn.
 Griffith Jones was, subsequently to the period of this meeting,
 a member of the Assembly of Pennsylvania.
 
-Notes at a Meeting of Ministering Friends, Held in Burlington,
+[.embedded-content-document.minute]
+--
+
+[.letter-heading]
+Notes at a Meeting of Ministering Friends
+
+[.centered]
+_Held in Burlington,
 at the House of Samuel Jennings, the 17th, 18th, 19th, 20th, 21st, 22nd,
-and 23rd days of the 7th month, 1698.
+and 23rd days of the 7th month, 1698._
+
+[.small-break]
+'''
 
 The meeting was large and full,
 and several travelling Friends that were strangers were present, as William Ellis,
@@ -73,7 +86,7 @@ A Testimony concerning our dear friend, Thomas Janney, given forth by Griffith O
 was read and approved.
 The meeting adjourned until the morrow morning.
 
-18th day.--Friends being met together,
+_18th day._--Friends being met together,
 and the Lord`'s power and presence eminently attending the meeting,
 several testimonies and cautions were delivered in the power and life of Truth,
 which then overshadowed the meeting.
@@ -112,9 +125,10 @@ for many things which might open at such times, if the power withdrew,
 might be better spoken to by another, who might afterward be put forth to speak to it,
 if the Lord saw good to order it.
 
+[.offset]
 Adjourned until the morrow morning.
 
-19th day.--Friends being again met this morning,
+_19th day._--Friends being again met this morning,
 some testimonies and cautions were given, as follows:
 
 As to the difference between the wisdom of God and of man,
@@ -149,9 +163,10 @@ to go from this meeting.
 The answer written by Caleb Pusey and John Wood, to Daniel Leeds`'s book,
 called "`News of a Trumpet,`" agreed to be read next Fifth-day morning.
 
+[.offset]
 Adjourned until the morrow, at eight in the morning.
 
-20th day.--Adjourned again until four in the afternoon.
+_20th day._--Adjourned again until four in the afternoon.
 
 Ann Dilworth proposed her intentions of going for England, to visit Friends there,
 and she was advised of the weight of so great a concern; but if it rested still with her,
@@ -169,13 +184,15 @@ but being informed it had not yet orderly passed the Monthly Meeting at Philadel
 to which he belonged,
 he was therefore referred to give the said meeting satisfaction in the first place.
 
+[.offset]
 Adjourned until eight in the morning.
 
-21st day.--Adjourned until evening.
+_21st day._--Adjourned until evening.
 
+[.offset]
 Adjourned until eight in the morning.
 
-22nd day.--Mary Rogers, in much brokenness, laid before Friends,
+_22nd day._--Mary Rogers, in much brokenness, laid before Friends,
 how that it had not been her own choice, to choose exercises, trials and difficulties,
 but it had been the Lord`'s pleasure to draw her beyond her expectation,
 as now he had laid it upon her to visit Barbados;
@@ -198,18 +215,27 @@ and in Virginia, and he was left to his liberty.
 
 Thomas Turner`'s certificate signed.
 
-23rd day.--Caleb Pusey`'s answer to Daniel Leeds`'s
+_23rd day._--Caleb Pusey`'s answer to Daniel Leeds`'s
 "`News of a Trumpet sounding in the Wilderness,
 etc.`" was read and agreed that it be published, with amendments,
 and the additions noted to be made.
 
+[.offset]
 The meeting ended.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Ellis to His Wife
 
+[.signed-section-context-open]
 Burlington, in West Jersey, 27th of 7th mo.
 1698.
 
+[.salutation]
 Dear and Loving Wife;
 
 After my true love to you, know that I am indifferent well,
@@ -260,15 +286,24 @@ The Lord show mercy to all such, if their day be not over.
 I have had good service in the Yearly Meeting.
 Blessing and honour be to the holy and merciful name of the Lord forever!
 
+[.signed-section-closing]
 This from your real husband,
 
+[.signed-section-signature]
 William Ellis.
 
+--
+
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 An Epistle from William Ellis sent to Settle Monthly Meeting.
 
-Boston in New England, 20th of 8th mo.
-1698.
+[.signed-section-context-open]
+Boston in New England, 20th of 8th mo. 1698.
 
+[.salutation]
 Dear Friends,
 
 Though I be far separated from you in body, yet neither length of time,
@@ -314,9 +349,14 @@ and peace and love will increase among you;
 and the young people will behold your good order, and bless the Lord on your behalf.
 Thus with true love to you all, and to honest Friends in your particular meetings,
 
+[.signed-section-closing]
 I remain your real friend,
 
+[.signed-section-signature]
 William Ellis.
+
+[.postscript]
+====
 
 P+++.+++ S.--Know this, that I have visited Friends in Carolina, Virginia, Maryland,
 Pennsylvania, East and West Jersey, Long Island, and Rhode Island, mostly,
@@ -327,13 +367,23 @@ James Dilworth`'s wife, I suppose, is gone by this to Barbados, and if she live,
 she intends to come for England.
 My love to my wife.
 
+====
+
+[.signed-section-signature]
 William Ellis
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Theodore Eccleston to Alice Ellis.
 
-London, the 25th of the 8th mo.
-1698.
+[.signed-section-context-open]
+London, the 25th of the 8th mo. 1698.
 
+[.salutation]
 Dear Friend;
 
 I was often desired to write to you by your husband before he went hence, and since,
@@ -379,17 +429,31 @@ to which Holy Spirit manifest within, I truly recommend you,
 desiring the blessings of God inwardly and outwardly may be increased to you.
 So dear friend, with mine and my wife`'s true love to you,
 
+[.signed-section-closing]
 I rest your assured loving friend,
 
+[.signed-section-signature]
 Theodore Eccleston.
+
+[.postscript]
+====
 
 P+++.+++ S. Thomas Story and Roger Gill are going to America.
 
+====
+
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 A Letter from William Ellis to the Friends appointed as Overseers of the Church at Airton.
 
-Boston, in New England, 9th of 9th mo.
-1698.
+[.signed-section-context-open]
+Boston, in New England, 9th of 9th mo 1698.
 
+[.salutation]
 Kind Friends;
 
 After my kind and dear love to you,
@@ -478,9 +542,13 @@ My dear love to her and to Friends of your Monthly Meeting, or elsewhere,
 who love the Lord Jesus Christ.
 Aaron Atkinson`'s love is to you all.
 
+[.signed-section-closing]
 Your real, constant and true friend,
 
+[.signed-section-signature]
 William Ellis.
+
+--
 
 It is worthy of notice,
 that on the same day on which William Ellis allowed his affection
@@ -488,11 +556,16 @@ for his wife to dictate the expressions of fear respecting her,
 in the foregoing letter, she addressed the following to him,
 showing how groundless were his fears.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Alice Ellis to Her Husband
 
-Airton, the 9th of the 9th mo.
-1698.
+[.signed-section-context-open]
+Airton, the 9th of the 9th mo. 1698.
 
+[.salutation]
 Dear and Loving Husband;
 
 After the salutation of endeared love to you, by this you may know,
@@ -545,6 +618,10 @@ for I lack nothing which is good; the Lord makes up for all and every want;
 only remember me in that bond which cannot be broken.
 And in this inexpressible love do I remain,
 
+[.signed-section-closing]
 Your true and loving wife,
 
+[.signed-section-signature]
 Alice Ellis.
+
+--

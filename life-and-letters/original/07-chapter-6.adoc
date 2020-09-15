@@ -1,8 +1,12 @@
 == Chapter VI.
 
-Letters from Alice Ellis to her husband--Adam Squire to William
-Ellis--William Ellis to Simeon Wilkinson--to Alice Ellis--Theodore
-Eccleston to William Ellis--William Ellis to Adam Squire.
+[.chapter-synopsis]
+* Letters from Alice Ellis to her husband
+* Adam Squire to William Ellis
+* William Ellis to Simeon Wilkinson
+* to Alice Ellis
+* Theodore Eccleston to William Ellis
+* William Ellis to Adam Squire
 
 The notice in the following letter of "`Quarterly Meetings of Public
 Friends at Settle,`" seems to have referred to the commencement
@@ -10,11 +14,16 @@ of the meetings now known as the Meetings of Ministers and Elders,
 which are held once a quarter within most of the
 Monthly Meetings in the Society of Friends.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Alice Ellis to Her Husband
 
-Airton, the 24th of the 5th mo.
-1698.
+[.signed-section-context-open]
+Airton, the 24th of the 5th mo. 1698.
 
+[.salutation]
 Dear and Loving Husband,
 
 I have received thine dated the 23rd of the 2nd month, which was gladness to my mind;
@@ -60,9 +69,13 @@ I was at the Quarterly Meeting at York, and I can truly say,
 it was the most comfortable meeting that ever I was at there.
 Having a little eased my mind, I shall conclude, and so remain,
 
-Thy true and loving wife,
+[.signed-section-closing]
+Your true and loving wife,
 
+[.signed-section-signature]
 Alice Ellis.
+
+--
 
 Adam Squire, the writer of the following letter, was a Friend of Airton,
 whose name first occurs on the minutes of Settle Monthly Meeting, in 1696.
@@ -70,12 +83,17 @@ The Gill estate, near Airton, which is now in the possession of Friends of Yorks
 belonged to some of the same family of Squire,
 who lived at Needham Market at the time it was transferred to Friends in 1829.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Adam Squire to William Ellis
 
-Airton, the 24th of the 5th mo.
-1698.
+[.signed-section-context-open]
+Airton, the 24th of the 5th mo. 1698.
 
-True And Well-wishing Friend, William Ellis;
+[.salutation]
+True and Well-wishing Friend, William Ellis;
 
 Wheresoever these may find thee, the glory of the Lord God of Israel overshadow thee,
 and the blessings of his Son Christ Jesus abound in and upon thee!
@@ -149,17 +167,25 @@ and to pray the Lord that he may bring them through Jordan,
 which I earnestly desire the Lord may grant so to be; and in expectation of the same,
 I rest thy loving friend and brother in the unchangeable Truth,
 
+[.signed-section-signature]
 Adam Squire.
+
+--
 
 Simeon Wilkinson, to whom the following letter is addressed,
 appears to have been an indentured servant to William Ellis.
 The care of a Christian master is well set forth in the counsel contained in this letter.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Ellis to Simeon Wilkinson
 
-Maryland, the 25th of 5th mo.
-1698.
+[.signed-section-context-open]
+Maryland, the 25th of 5th mo. 1698.
 
+[.salutation]
 Simeon Wilkinson,
 
 Loving friend, after true love to thee, know that the time of thy freedom being near,
@@ -183,9 +209,13 @@ and that the Truth might grow in thee and amongst you all;
 that by it you might be made men for God when I am gone.
 Thus with true love to thee and you all,
 
+[.signed-section-closing]
 I rest thy true friend,
 
+[.signed-section-signature]
 William Ellis.
+
+--
 
 While William Ellis pointed out the benefit of attention
 to the teaching of the Holy Spirit,
@@ -204,12 +234,17 @@ that whatsoever was professed to be the teaching of the Spirit,
 and was contrary to Holy Scripture, must be reckoned a delusion of the devil.
 Caution is extended in the following letter, in regard to persons under such delusions.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Ellis to His Wife
 
-East Shore, Maryland, 26th of 5th mo.
-1698.
+[.signed-section-context-open]
+East Shore, Maryland, 26th of 5th mo. 1698.
 
-Dear And Loving Wife,
+[.salutation]
+Dear and Loving Wife,
 
 After true love to thee, these may let thee know,
 that through the tender mercy of God (who hath wonderfully
@@ -260,23 +295,27 @@ such as are but of their own brain; and advise to keep to the sound Truth in all
 and put Friends in mind to visit Scarhouse Meeting.
 So with true love to thee,
 
+[.signed-section-closing]
 I remain thy real and loving husband,
 
+[.signed-section-signature]
 William Ellis.
+
+--
 
 George Keith who, as well as some others,
 is noticed in the following letter and in some subsequent ones,
 was once a minister among Friends; but he fell from his standing,
 and afterwards joined the Episcopalians, among whom he became a priest,
 but practised persecution and falsehood so as to render his profession
-of religion contemptible.--See Life of John Richardson, Ed. 1843. p. 103--129.
+of religion contemptible.--See [.book-title]#Life of John Richardson#, Ed. 1843. p. 103--129.
 
 Nicholas Wain was a Friend who emigrated from England at an early period.
 A Friend of the same name, possibly a descendant of the former,
 visited England from America as a minister in 1783, and again in 1795.
 
 The following notice of Griffith Owen, who is several times mentioned in this volume,
-is from "`Proud`'s History of Pennsylvania,`" Vol.
+is from Proud`'s [.book-title]#History of Pennsylvania#, Vol.
 ii. p. 99. "`In the latter part of the year 1717, died Dr. Griffith Owen, of Philadelphia.
 He came to Pennsylvania among the early settlers;
 and was said to be of great and eminent service among them in divers capacities.
@@ -290,11 +329,16 @@ With these qualities he is said to have preserved
 the sincerity and meekness of a true Christian,
 and died much beloved by a large acquaintance of people of different ranks and societies.`'
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Ellis to His Wife
 
-Philadelphia, the 8th of the 6th mo.
-1698.
+[.signed-section-context-open]
+Philadelphia, the 8th of the 6th mo. 1698.
 
+[.salutation]
 Dear and Loving wife,
 
 By this know that I got to this city two days since, where I was long looked for,
@@ -353,15 +397,24 @@ that as I have left all to see Truth prosper in these lands,
 it would therefore give me great gladness to hear of its prosperity at home.
 With true love to thee,
 
+[.signed-section-closing]
 I remain thy truly loving husband,
 
+[.signed-section-signature]
 William Ellis.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Theodore Eccleston to William Ellis
 
-Wandsworth, near London, 12th of 6th mo.
-1698.
+[.signed-section-context-open]
+Wandsworth, near London, 12th of 6th mo. 1698.
 
+[.salutation]
 Dear and Loving Friend;
 
 I have received several of thy letters from the seacoast, and from Maryland or Virginia,
@@ -407,15 +460,24 @@ to the glory of God, and to the comfort of thy exercised mind.
 So desiring thy preservation every way, with that of thy dear fellow traveller,
 with mine and my wife`'s dear love to you both,
 
+[.signed-section-closing]
 I rest thy truly loving friend and brother,
 
+[.signed-section-signature]
 Theodore Eccleston.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Ellis to Adam Squire.
 
-Philadelphia, the 8th of 6th mo.
-1698.
+[.signed-section-context-open]
+Philadelphia, the 8th of 6th mo. 1698.
 
+[.salutation]
 Kind Friend,
 
 Thou mayst know that it is no small gladness to have a few lines from thee,
@@ -439,6 +501,10 @@ that thou mayst have thy right portion on that account.
 If thou pass that post without harm, it will make thy days comfortable.
 So with true love to thee,
 
+[.signed-section-closing]
 I rest thy real friend and eternal well-wisher,
 
+[.signed-section-signature]
 William Ellis.
+
+--

@@ -1,21 +1,31 @@
 == Chapter VIII.
 
-Notice of John Field--Letters from John Field to Alice Ellis--and from Aaron Atkinson
-to William Ellis--On the Payment of Ministers--Letter from William Ellis to his wife--Notice
-of Daniel Gould and letter from him to William Ellis--Notice of John Bowstead and letter
-from him to Alice Ellis--Letter from William Ellis to John Wynn.
+[.chapter-synopsis]
+* Notice of John Field
+* Letters from John Field to Alice Ellis
+* and from Aaron Atkinson to William Ellis
+* On the Payment of Ministers
+* Letter from William Ellis to his wife
+* Notice of Daniel Gould and letter from him to William Ellis
+* Notice of John Bowstead and letter from him to Alice Ellis
+* Letter from William Ellis to John Wynn
 
 John Field, the writer of the following letter, was the author of several short essays,
 some of them controversial:
-he was likewise the editor of the fourth and fifth parts of "`Piety Promoted.`"
+he was likewise the editor of the fourth and fifth parts of [.book-title]#Piety Promoted#.
 He took a deep interest in the welfare of the Society of Friends,
 and died at Hammersmith near London in 1723, aged 75.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Field to Alice Ellis
 
-London, the 26th of the 9th mo.
-1698.
+[.signed-section-context-open]
+London, the 26th of the 9th mo. 1698.
 
+[.salutation]
 Loving Friend, Alice Ellis;
 
 I have received a letter from thy husband, dated the 13th of the 5th mo.
@@ -47,15 +57,24 @@ see and enjoy one another again to your mutual comfort,
 which I truly desire.
 So with my kind love to thee and Friends,
 
+[.signed-section-closing]
 I rest thy truly loving friend,
 
+[.signed-section-signature]
 John Field.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Aaron Atkinson to William Ellis
 
-The 1st of the 10th mo.
-1698.
+[.signed-section-context-open]
+The 1st of the 10th mo. 1698.
 
+[.salutation]
 Dear William Ellis;
 
 My true companion, whom my soul loves; thou art oft in my remembrance,
@@ -85,9 +104,13 @@ and makes some shake the head when they know not what to say; or only to say,
 He is a true man.
 With true love to thee,
 
+[.signed-section-closing]
 I rest thy real Friend,
 
+[.signed-section-signature]
 Aaron Atkinson.
+
+--
 
 Although the Society of Friends bears a decided testimony
 to the practice of taking money for preaching,
@@ -105,11 +128,16 @@ This seems to have been the case with William Ellis,
 in order that he might "`cut off occasion from them which
 desired occasion,`" as appears by the following letter.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Ellis to His Wife
 
-Chester County in Pennsylvania, 1st of 11th mo.
-1698.
+[.signed-section-context-open]
+Chester County in Pennsylvania, 1st of 11th mo. 1698.
 
+[.salutation]
 Dear Wife;
 
 After my true and unfeigned love to thee, by tins know,
@@ -196,9 +224,13 @@ So if any upbraid thee therewith, and say that I have left thee,
 in order that I might get money, tell them in the name of the Lord, that it is a lie.
 So with true love to thee, wishing we may live sensible of the great mercy of God,
 
+[.signed-section-closing]
 I rest thy truly loving husband,
 
+[.signed-section-signature]
 William Ellis.
+
+--
 
 The following notice of Daniel Gould, the writer of the subjoined letter,
 is extracted from the "`Record of the deaths of Friends and their children,
@@ -212,12 +244,17 @@ and finished this life in a full assurance of life eternal,
 which he signified on his deathbed,
 and encouraged all to believe and walk in the same Truth.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Daniel Gould to William Ellis
 
-The 1st of the 11th mo.
-1698.
+[.signed-section-context-open]
+The 1st of the 11th mo. 1698.
 
-Dear William And Greatly Beloved!
+[.salutation]
+Dear William and Greatly Beloved!
 
 For the soundness and savouriness of thy spirit,
 and the sweet savour thou hast left behind thee, many have thee in good remembrance,
@@ -232,19 +269,27 @@ that they keep it and grow in the simplicity thereof;
 this will warm and comfort their hearts, being knit together in love.
 So with my hearty and true love to thyself and Friends where thou comest, Farewell!
 
+[.signed-section-signature]
 Daniel Gould.
+
+--
 
 John Bowstead, the writer of the following letter, was a native of Cumberland:
 he joined the Society of Friends when young,
 and became a laborious minister amongst them.
 He died in 1716, aged 57, and was buried at Scotby near Carlisle.
-See Piety Promoted, Part VI.
+See [.book-title]#Piety Promoted#, Part VI.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Bowstead to Alice Ellis.
 
-Bainbridge, in Wensleydale, 9th of 11th mo.
-1698.
+[.signed-section-context-open]
+Bainbridge, in Wensleydale, 9th of 11th mo. 1698.
 
+[.salutation]
 Dear Friend,
 
 Thou hast often been in my remembrance since thy dear husband was
@@ -263,18 +308,26 @@ I write this in love to thee, as knowing that thy husband is a man of God,
 and hath served him fervently and faithfully in this his glorious day;
 and may He that blessed him, bless thee too, is the fervent desire of thy true friend,
 
+[.signed-section-signature]
 John Bowstead.
+
+--
 
 John Wynn, to whom the following letter was addressed, resided at Bradford, in Yorkshire,
 and was a minister much esteemed among Friends:
 he is mentioned in page 24 of this volume, where there is also a letter to him,
 and there is a Testimony respecting him in a subsequent chapter.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Ellis to John Wynn
 
-Philadelphia, the 28th of the 11th mo.
-1698.
+[.signed-section-context-open]
+Philadelphia, the 28th of the 11th mo. 1698.
 
+[.salutation]
 Dear Friend,
 
 Whom I have dearly loved many years, because of thy love to the Truth;
@@ -344,6 +397,10 @@ people that they may dwell in the midst of her:
 glory and honour and everlasting thanks be given
 and sounded forth to his worthy and glorious name!
 
+[.signed-section-closing]
 This is from thy real friend,
 
+[.signed-section-signature]
 William Ellis.
+
+--

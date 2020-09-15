@@ -1,19 +1,31 @@
 == Chapter IX.
 
-Letters from William Ellis to John Chanler and Samuel Bound--Notice of Phineas
-Pemberton--Letters from Phineas Pemberton and William Gabbitus to William Ellis,--from
-John Tomkins to Alice Ellis--Notice of Gilbert Thompson--Letters from Gilbert
-Thompson to Alice Ellis--from William Southebe and Rowland Ellis to William Ellis--Notice
-of William Fishbourn--Letters from William Fishbourn and Griffith Owen to William
-Ellis--Notice of Anthony Morris--Letter from Anthony Morris to William Ellis--Notice
-of Samuel Carpenter--Letters from Samuel Carpenter and Richard Johns to William
-Ellis--John Cowgill to the Offspring of Believing Parents.
+[.chapter-synopsis]
+* Letters from William Ellis to John Chanler and Samuel Bound
+* Notice of Phineas Pemberton
+* Letters from Phineas Pemberton and William Gabbitus to William Ellis,
+* from John Tomkins to Alice Ellis
+* Notice of Gilbert Thompson
+* Letters from Gilbert Thompson to Alice Ellis
+* from William Southebe and Rowland Ellis to William Ellis
+* Notice of William Fishbourn
+* Letters from William Fishbourn and Griffith Owen to William Ellis
+* Notice of Anthony Morris
+* Letter from Anthony Morris to William Ellis
+* Notice of Samuel Carpenter
+* Letters from Samuel Carpenter and Richard Johns to William Ellis
+* John Cowgill to the Offspring of Believing Parents.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Ellis to John Chanler.
 
-Philadelphia, the 11th of 1st mo.
-1698.
+[.signed-section-context-open]
+Philadelphia, the 11th of 1st mo. 1698.
 
+[.salutation]
 My Kind Friend and Landlord;
 
 After my true respects to thee and thy wife, by this know,
@@ -48,15 +60,24 @@ My companion is come, and he told me of thy kindness to him.
 I took it as done to myself.
 So in true love to thee,
 
+[.signed-section-closing]
 I remain thy true friend,
 
+[.signed-section-signature]
 William Ellis.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Ellis to Samuel Bound
 
-Philadelphia, the 11th of the 1st mo.
-1698.
+[.signed-section-context-open]
+Philadelphia, the 11th of the 1st mo. 1698.
 
+[.salutation]
 Dear Friend, Samuel Bound;
 
 After true love to thee, by this know,
@@ -98,9 +119,13 @@ The Lord thoroughly work him into that frame of mind
 in which he may faithfully serve him in all things.
 So with true love to thee, thy wife and friends,
 
+[.signed-section-closing]
 I remain thy true friend,
 
+[.signed-section-signature]
 William Ellis.
+
+--
 
 Phineas Pemberton,^
 footnote:[Phineas Pemberton was the father of Israel Pemberton, and grandfather of James,
@@ -114,14 +139,19 @@ where he had been a useful member of the Society of Friends.
 In 1697 he was a member of Council and Speaker of the Assembly of Pennsylvania:
 he died in 1702,
 having been very serviceable in things temporal and spiritual
-in his adopted country.--See Life of Samuel Fothergill,
+in his adopted country.--See [.book-title]#Life of Samuel Fothergill#,
 page 160.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Phineas Pemberton to William Ellis
 
-The 18th of the 1st mo.
-1695.
+[.signed-section-context-open]
+The 18th of the 1st mo. 1695.
 
+[.salutation]
 Dear Friend, William Ellis;
 
 Thy faithfulness to the Lord, the plainness of thy testimony,
@@ -146,15 +176,24 @@ and faithfully to follow and worship him,
 who over all is worthy.
 Thus being in haste, but in dear and tender love, I bid thee Farewell!
 
+[.signed-section-closing]
 Who am thine in sincerity and truth,
 
+[.signed-section-signature]
 Phineas Pemberton.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Gabbitus to William Ellis
 
-Philadelphia, the 25th of 1st mo.
-169?-.
+[.signed-section-context-open]
+Philadelphia, the 25th of 1st mo. 1698.
 
+[.salutation]
 Dear William,
 
 I thought I parted very hardly with thee, when I last saw thee;
@@ -199,15 +238,24 @@ to me it looks duskish at present.
 Dear heart, remember us when we see thee not.
 In the love of God, I bid thee truly, Farewell!
 
+[.signed-section-closing]
 Thy truly loving friend and well-wisher,
 
+[.signed-section-signature]
 William Gabbitus.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Tomkins to Alice Ellis.
 
-London, the 10th of 12th mo.
-1698.
+[.signed-section-context-open]
+London, the 10th of 12th mo. 1698.
 
+[.salutation]
 Dear Friend,
 
 At the request of thy dear husband, I send this,
@@ -240,9 +288,13 @@ Dear friend, thus according to his request, and my inclination also,
 have I sent these few lines;
 and with the salutation of mine and my wife`'s dear love to thee,
 
+[.signed-section-closing]
 I rest thy friend in the Truth,
 
+[.signed-section-signature]
 John Tomkins.
+
+--
 
 Gilbert Thompson, the writer of the following letter, resided at Penketh in Lancashire,
 where he kept a boarding-school.
@@ -251,14 +303,19 @@ he was prosecuted by the intolerant party then in power, for keeping a school,
 and for this alleged offence was imprisoned in Lancaster Castle!
 He became a minister about the period at which this letter was written to Alice Ellis,
 and was much esteemed both in this capacity and in that of a preceptor of youth:
-he died in 1719, aged 61 years.--See notice of him in Piety Promoted, Part VIII.
-and Memoirs of Samuel Fothergill, page 11.
+he died in 1719, aged 61 years.--See notice of him in [.book-title]#Piety Promoted#, Part VIII.
+and [.book-title]#Memoirs of Samuel Fothergill#, page 11.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Gilbert Thompson to Alice Ellis
 
-Sankey, the 28th of the 11th mo.
-169J
+[.signed-section-context-open]
+Sankey, the 28th of the 11th mo. 1698
 
+[.salutation]
 Dear Friend, Alice Ellis;
 
 I often remember thee though I seldom write to thee, and were I near thee,
@@ -291,15 +348,24 @@ There is a more settled knowledge of such as are in the true faith,
 and live in the Truth, than can or need be set forth by lines.
 With a tender salutation of love I bid thee Farewell, and remain
 
+[.signed-section-closing]
 Thy well-wisher in my measure.
 
+[.signed-section-signature]
 Gilbert Thompson.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Southebe to William Ellis
 
-Philadelphia, the 26th of 1st mo.
-1699.
+[.signed-section-context-open]
+Philadelphia, the 26th of 1st mo. 1699.
 
+[.salutation]
 Dear Friend, William Ellis.
 
 Not having the opportunity to be more in thy company when thou was here amongst us,
@@ -318,9 +384,13 @@ and is that into which my soul desires to be gathered more and more.
 So with true and unfeigned love to thee,
 desiring the Lord may prosper thee in his service,
 
+[.signed-section-closing]
 I remain thy friend,
 
+[.signed-section-signature]
 William Southebe.
+
+--
 
 Rowland Ellis, the writer of the following letter,
 was a man of note among the Welsh settlers in Pennsylvania: he visited America in 1686,
@@ -334,14 +404,19 @@ he lived long to do good,
 his service both in the church of Christ and in the State being considerable.
 He was a preacher among the Quakers, and an acceptable man in every station.
 He died at his son-in-law, John Evans`'s, in North Wales, Pennsylvania,
-in his eightieth year.--See Proud`'s History of Pennsylvania, Vol.
+in his eightieth year.--See Proud`'s [.book-title]#History of Pennsylvania#, Vol.
 I+++.+++ Page 220.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Rowland Ellis to William Ellis
 
-The 28th of the 1st mo.
-1699.
+[.signed-section-context-open]
+The 28th of the 1st mo. 1699.
 
+[.salutation]
 My Esteemed Friend, William Ellis;
 
 If these lines come to thy hands,
@@ -369,19 +444,28 @@ Our friend, Hugh Roberts, hath twice visited them, they being sick;
 her husband took it very kindly.
 So with my dear love unto thee,
 
+[.signed-section-closing]
 I remain thy friend,
 
+[.signed-section-signature]
 Rowland Ellis.
+
+--
 
 William Fishbourn, the writer of the following letter,
 was a member of the Assembly of Pennsylvania, for Philadelphia county,
 in 1716 and subsequent years.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Fishbourn to William Ellis
 
-Philadelphia, the 2nd of 2nd mo.
-1699.
+[.signed-section-context-open]
+Philadelphia, the 2nd of 2nd mo. 1699.
 
+[.salutation]
 Dear and Well-esteemed Friend, William Ellis;
 
 For so in my small measure of the Truth as it is in Jesus, I am bold to call thee;
@@ -413,15 +497,24 @@ and that nothing may be hid in me that is contrary to, or that oppresses the goo
 Look upon these lines as from one that wants utterance to express my desires.
 To the Lord I leave thee, and to the guidance of his good Spirit,
 
+[.signed-section-closing]
 And bid thee, Farewell!
 
+[.signed-section-signature]
 William Fishbourn.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Griffith Owen to William Ellis.
 
-Philadelphia, the 3rd of 2nd mo.
-1699.
+[.signed-section-context-open]
+Philadelphia, the 3rd of 2nd mo. 1699.
 
+[.salutation]
 My Dear Friend,
 
 I cannot forget thee, nor thy service or labour of love amongst us,
@@ -436,15 +529,24 @@ when thou art far from us, in thy nearest approaches to the Lord;
 and I desire thee to mind my love to all Friends
 in England that may inquire respecting me.
 
+[.signed-section-closing]
 I remain thy friend and brother,
 
+[.signed-section-signature]
 Griffith Owen.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Abraham Johns to William Ellis
 
-Maryland, Clift, the 11th mo.
-1699.
+[.signed-section-context-open]
+Maryland, Clift, the 11th mo. 1699.
 
+[.salutation]
 Dear William Ellis,
 
 Whom I dearly love in the Truth, my true love salutes thee,
@@ -486,22 +588,31 @@ Dear William, I desire to hear from thee as opportunity may present.
 I shall not add, but mine and my wife`'s true love to thee and all Friends,
 is the conclusion of,
 
+[.signed-section-closing]
 Thy loving and sincere friend,
 
+[.signed-section-signature]
 Abraham Johns.
+
+--
 
 Anthony Morris, the writer of the following letter, settled at Burlington,
 in West Jersey, about 1680: he afterwards removed to Philadelphia:
 he was a serviceable man as a preacher among the Quakers,
 and in various other respects both of a public and private nature:
-he died in 1721.--See Proud`'s History of Pennsylvania, Vol.
+he died in 1721.--See Proud`'s [.book-title]#History of Pennsylvania#, Vol.
 II. page 146.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Anthony Morris to William Ellis
 
-Philadelphia, the 12th of 4th mo.
-1699.
+[.signed-section-context-open]
+Philadelphia, the 12th of 4th mo. 1699.
 
+[.salutation]
 Dear William Ellis;
 
 I have often been troubled in my mind when the thoughts
@@ -522,9 +633,13 @@ as I hope thou art gotten to thine.
 With the salutation of mine and my wife`'s dear love to thee and thy dear wife, I rest,
 and subscribe myself, in the Truth that changes not,
 
+[.signed-section-closing]
 Thy real friend,
 
+[.signed-section-signature]
 Anthony Morris.
+
+--
 
 Samuel Carpenter, the writer of the following letter,
 was one of the early settlers in Pennsylvania:
@@ -533,14 +648,19 @@ in which he also filled the office of Treasurer: his great abilities,
 combined with a benevolent and active disposition,
 rendered him a useful and valuable member of civil and religious society;
 and he appears to have been highly esteemed among the Quakers,
-to whom he belonged.--See Proud`'s History of Pennsylvania, Vol.
+to whom he belonged.--See Proud`'s [.book-title]#History of Pennsylvania#, Vol.
 II. page 60.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Carpenter to William Ellis
 
-Philadelphia, the 17th of the-4th mo.
-1699.
+[.signed-section-context-open]
+Philadelphia, the 17th of the 4th mo. 1699.
 
+[.salutation]
 Dear William Ellis,
 
 Although I have little to write,
@@ -580,7 +700,10 @@ We were glad of thine from Maryland.
 Friends are generally in health, and I know the love of many is to thee;
 so concludes thy real friend,
 
+[.signed-section-signature]
 Samuel Carpenter.
+
+--
 
 Richard Gove, who is mentioned in the following letter, resided in Philadelphia:
 in the latter part of his life he accompanied Thomas
@@ -588,14 +711,19 @@ Chalkley on a religious visit to England,
 having also been his companion in similar services in the West Indies,
 Ireland and Scotland: he died at Uxbridge, near London, in 1710;
 and is described by Thomas Chalkley as an inoffensive, loving Friend,
-whose testimony was sound, serviceable and convincing.--See Thomas Chalkley`'s Journal,
+whose testimony was sound, serviceable and convincing.--See [.book-title]#Thomas Chalkley`'s Journal#,
 Ed. 1818, page 102.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Grove to William Ellis
 
-Maryland, the 25th of the 4th mo.
-1699.
+[.signed-section-context-open]
+Maryland, the 25th of the 4th mo. 1699.
 
+[.salutation]
 Dear William Ellis,
 
 Whom I truly love in the Truth;
@@ -618,9 +746,13 @@ I am in some haste, being straitened for time; the ship is just under sail,
 so that at present I must conclude,
 and tell thee that`' some lines from thee will be very acceptable to
 
+[.signed-section-closing]
 Thy friend and brother in the Truth,
 
+[.signed-section-signature]
 Richard Johns.
+
+--
 
 William Ellis returned from America to England in the early part of 1699.
 The following letter,
@@ -628,10 +760,16 @@ expressive of the yearnings of an emigrant over the children of those
 to whom he had been united in religious fellowship in his native land,
 was entrusted to William Ellis for circulation.
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 A few Lines to the Offspring of Believing Parents in Old England.
 
+[.salutation]
 Dear and well-beloved friends in the land of our nativity;
-my hearty desire and prayer to God is for you all, and mostly for a young generation,
+
+My hearty desire and prayer to God is for you all, and mostly for a young generation,
 the children of believing parents,
 that it may please the Lord to raise up a remnant
 to stand up in the place of our fathers in Christ,
@@ -650,7 +788,11 @@ that his great Name may not be evil spoken of amongst the heathen;
 and I should be glad if it would please the Lord to raise
 up many more worthies to visit his seed in these countries.
 
+[.signed-section-signature]
 John Cowgill.
 
+[.signed-section-context-close]
 From my house in Middleton, in the County of Bucks, in Pennsylvania,
 the 9th of the 1st month, 1699.
+
+--

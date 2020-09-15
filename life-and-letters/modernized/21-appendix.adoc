@@ -1,6 +1,7 @@
 == Appendix
 
-History of the First Gathering of Friends in Settle Monthly Meeting.
+[.blurb]
+=== History of the First Gathering of Friends in Settle Monthly Meeting.
 
 The following document contains a history of the first gathering of the
 Society of Friends in the district comprised within Settle Monthly Meeting;
@@ -15,8 +16,15 @@ of these early promulgators of the plain truth of the Gospel,
 as well as the power and convincing efficacy attending their ministry,
 deserve especial notice.
 
+[.embedded-content-document.minute]
+--
+
+[.letter-heading]
 Minute of Settle Monthly Meeting, 11th mo.
 3rd, 1704.
+
+[.small-break]
+'''
 
 John Moore, Joseph Nicholson, Thomas Camm, and William Armistead, give account,
 that according as they were desired by Friends at our last Monthly Meeting,
@@ -27,9 +35,11 @@ which being so collected and transcribed in one,
 was delivered to Friends at the Quarterly Meeting,
 and a copy thereof reserved in this meeting, which is as follows:
 
+[.offset]
 From our Monthly Meeting, held at Settle, the 22nd of the 10th month, 1704,
 to the Quarterly Meeting at York.
 
+[.salutation]
 Dear Friends;
 
 According to the request of the Second-day`'s Morning Meeting in London,
@@ -193,8 +203,13 @@ with those others who were convinced by the Friends aforesaid,
 began to keep a meeting near unto Newton, where there has been one continued ever since,
 and is called Bolland Meeting.
 
+[.small-break]
+'''
+
 Note.--The said Cuthbert Hayhurst afterwards became an able minister of the Gospel,
 and travelled in the service thereof in various parts of the nation,
 and some parts beyond the seas, as Jamaica; and afterwards,
 with the unity and consent of his brethren, removed himself and family to Pennsylvania,
 where he died in full unity with Friends.
+
+--

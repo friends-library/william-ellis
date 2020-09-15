@@ -1,15 +1,26 @@
 == Chapter XV.
 
-Letter from Francis Plumstead--Notice of Thomas Wilde--Letter from John
-Tomkins and others--Notices of John Blaikling and James Baines--Letter
-from William Edmundson--Notice of Samuel Bownas--Letter from Anthony Morris--Letter
-to Abraham Green--Letters from William Armistead and John Fothergill.
+[.chapter-synopsis]
+* Letter from Francis Plumstead
+* Notice of Thomas Wilde
+* Letter from John Tomkins and others
+* Notices of John Blaikling and James Baines
+* Letter from William Edmundson
+* Notice of Samuel Bownas
+* Letter from Anthony Morris
+* Letter to Abraham Green
+* Letters from William Armistead and John Fothergill
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Francis Plumstead to William Ellis.
 
-London, 23rd of 1st mo.
-1706.
+[.signed-section-context-open]
+London, 23rd of 1st mo. 1706.
 
+[.salutation]
 Dear Friend, William Ellis;
 
 I received yours, and was glad to hear of your welfare,
@@ -46,9 +57,13 @@ but I hope it will be more carefully considered,
 as I doubt not you are very sensible hereof; so it is not as a thought of blame upon you.
 Thus with mine, and my wife`'s dear love to you, your dear wife and good friends,
 
+[.signed-section-closing]
 I remain your very loving friend,
 
+[.signed-section-signature]
 Francis Plumstead.
+
+--
 
 Thomas Wilde, one of the Friends mentioned in the following letter,
 belonged to Settle Monthly Meeting: he was born in 1649,
@@ -67,14 +82,20 @@ he was also very serviceable in the discipline of the church.
 His religious labours extended to various parts of England and Wales;
 and he dwelt in deep humility under a reverent sense
 of the goodness and mercy of his God and Saviour.
-He peacefully "`departed this life in great patience and stillness/`' in 1728,
+He peacefully "`departed this life in great patience and stillness`" in 1728,
 being then in his eightieth year,
 and was interred in the Friends`' burial ground at Low Bentham.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 A Letter sent to William Ellis.
 
+[.signed-section-context-open]
 1706?
 
+[.salutation]
 Dear Friend,
 
 Your letter we received, and have answered the same by the post; but notwithstanding,
@@ -107,10 +128,14 @@ Salute us to your dear wife.
 For the rest of affairs among us, we do refer you to the bearers,
 and conclude in all sincerity,
 
+[.signed-section-closing]
 Your true and dear friends,
 
+[.signed-section-signature]
 John Tomkins, Francis Plumstead, Thomas Pittstow, William Robinson, Thomas Cox,
 Edward Hulley.
+
+--
 
 John Blaikling, of whom honourable mention is made in the following letter,
 lived at a house called Draw-well, near Sedbergh in Yorkshire:
@@ -126,7 +151,7 @@ or attending meetings for the worship of God,
 or for bearing a testimony against the anti-christian
 practice of claiming tithes under the Gospel dispensation.
 He died at his own house in 1705, aged 80 years,
-having been a minister about 51 years.--See Piety Promoted, Part JJl.
+having been a minister about 51 years.--See [.book-title]#Piety Promoted#, Part III.
 
 James Baines, who is also mentioned with christian esteem in this letter,
 was born at Strangerthwait, in Westmoreland,
@@ -139,13 +164,18 @@ he expressed his great peace with God here,
 and full assurance of eternal blessedness in the world to come,
 through the atonement made by the Lord Jesus Christ,
 and the work of sanctification of his Spirit.`"
-He died in 1705, aged 51.--See Piety Promoted, Part III.
+He died in 1705, aged 51.--See [.book-title]#Piety Promoted#, Part III.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Edmundson to William Ellis.
 
-Tenelle, 5th of 1st mo.
-1706.
+[.signed-section-context-open]
+Tenelle, 5th of 1st mo. 1706.
 
+[.salutation]
 Dear friend and fellow servant in the Lord`'s vineyard!
 
 I was at our Province Meeting at Carlow, two days ago, where I received yours;
@@ -217,7 +247,10 @@ which naturally brings weakness of body along with it.
 So in the love and peace of our Lord and Saviour Jesus Christ,
 I rest your hearty true friend and brother in the blessed Truth,
 
+[.signed-section-signature]
 William Edmundson
+
+--
 
 From the preceding letter, it appears that some who professed with Friends,
 and who seem to have united with them in their testimony against Oaths,
@@ -239,13 +272,18 @@ Much of his life was spent in apostolic journeys in Great Britain, Ireland, and 
 In the latter country he suffered imprisonment under
 the persecution raised by George Keith.
 In the latter part of his life, Samuel Bownas settled in Dorsetshire,
-where he died in 1753, aged about 77 years.--See Life of Samuel Bownas.
+where he died in 1753, aged about 77 years.--See [.book-title]#Life of Samuel Bownas#.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Anthony Morris to William Ellis.
 
-Pennsylvania, 5th of 1st mo.
-1706.
+[.signed-section-context-open]
+Pennsylvania, 5th of 1st mo. 1706.
 
+[.salutation]
 Dear Friend, William Ellis;
 
 In that love which abides and is unchangeable do I salute you,
@@ -292,13 +330,21 @@ and subscribe myself your friend and younger brother
 in the fellowship of the Gospel of peace,
 according to my measure,
 
+[.signed-section-signature]
 Anthony Morris.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Ellis to Abraham Green.
 
-Airton, the 29th of 3rd mo.
-1706.
+[.signed-section-context-open]
+Airton, the 29th of 3rd mo. 1706.
 
+[.salutation]
 Kind Friend,
 
 Since I left you, you, with many others, have been much in my mind, and the more,
@@ -335,13 +381,21 @@ Oh! blessing and honour to the name of the Lord forever and ever.
 This is from your real well-wishing friend,
 who desires that Truth may spread over all the earth,
 
+[.signed-section-signature]
 William Ellis.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Armistead to William Ellis.
 
-Chester, North America, 24th of 5th mo.
-1706.
+[.signed-section-context-open]
+Chester, North America, 24th of 5th mo. 1706.
 
+[.salutation]
 Dear Friend, William Ellis;
 
 Having this opportunity, by a vessel bound for Newcastle-upon-Tyne,
@@ -395,13 +449,21 @@ Remember my dear love to Friends, and to my relations,
 and take the same to yourself and wife and family, from your exercised friend,
 though well content with my portion,
 
+[.signed-section-signature]
 William Armistead.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Fothergill to William Ellis.
 
-Philadelphia, 9th of 6th mo.
-1706.
+[.signed-section-context-open]
+Philadelphia, 9th of 6th mo. 1706.
 
+[.salutation]
 My Near And Esteemed Friend,
 
 Whom I dearly love,
@@ -461,4 +523,7 @@ in travail for the spreading of the fame and beauty
 of the Truth to the ends of the earth.
 Farewell!
 
+[.signed-section-signature]
 John Fothergill.
+
+--

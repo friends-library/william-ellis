@@ -1,9 +1,12 @@
 == Chapter XVII.
 
-Notice of a Yearly Meeting at Lancaster by John Kelsall--Decease of William
-Ellis--Notice of Abigail Stott--Remarks respecting the recording of Ministers--Ministers
-in Settle Monthly Meeting coteraporary with William Ellis--Abigail Stott`'s
-Testimony respecting William Ellis.
+[.chapter-synopsis]
+* Notice of a Yearly Meeting at Lancaster by John Kelsall
+* Decease of William Ellis
+* Notice of Abigail Stott
+* Remarks respecting the recording of Ministers
+* Ministers in Settle Monthly Meeting coteraporary with William Ellis
+* Abigail Stott`'s Testimony respecting William Ellis.
 
 The Correspondence of William and Alice Ellis being now brought to a close,
 the following notice of a Yearly Meeting at Lancaster,
@@ -13,6 +16,9 @@ and at an interval when William Ellis was a little recruited from
 the effect of the malady which wore down his bodily powers,
 and at length caused his death.
 The account is from the pen of John Kelsall, who was a schoolmaster at Dolobran in Wales.
+
+[.embedded-content-document.letter]
+--
 
 I went to the Yearly Meeting at Lancaster.
 The public meetings were attended by a very great number of Friends,
@@ -44,6 +50,8 @@ and the rays and majesty of Truth were largely extended
 and stretched over that large assembly,
 so that many were made to say afterwards, that they had not known the like.
 And in this exaltation of life and power, the meeting concluded.
+
+--
 
 Tradition says that Alice Ellis was absent from home
 at the time of the decease of her husband;
@@ -109,10 +117,18 @@ Stephen Sedgwick, William Slater, Lawrence King, Phoebe Tillotson, and Ann Hird;
 and there is evidence that James Walton,
 Alice Ellis and John King were also ministers at this period.
 
+[.embedded-content-document.testimony]
+--
+
+[.letter-heading]
 A Testimony concerning the Convincement of that faithful Servant of Jesus Christ,
 William Ellis, of Airton, in the County of York, deceased, by Abigail Stott, 1709.
 
-"`The memory of the just is blessed.`"--Prov. 10:7
+[.centered]
+_"`The memory of the just is blessed.`"--Prov. 10:7_
+
+[.small-break]
+'''
 
 It was his lot before his convincement, to become a hired servant to my husband,
 John Stott, of Skipton, in Craven, in the county aforesaid, linen-weaver, also deceased;
@@ -206,4 +222,7 @@ in this nation and other nations, I hope a further account may be given,
 to the end that our heavenly Father may be glorified,
 and that we may bring forth much good fruit.
 
+[.signed-section-signature]
 Abigail Stott.
+
+--
