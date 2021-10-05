@@ -47,12 +47,13 @@ as the wind among the mulberry trees.
 I cannot enlarge, yet you know what I mean.
 
 Now as to the books that are to be sent to New England, I was too short about them,
-but you may know, that I thought three of George Fox`'s Journals, and divided thus:
+but you may know, that I thought three of George Fox`'s journals, and divided thus:
 to Hampton Monthly Meeting, one; to Salem Monthly Meeting, one;
 to Scituate and Sandwich Monthly Meetings, one; and order Friends,
 that the books go to and fro, that all may have the benefit thereof;
 and John Tomkins`'s book,
-entitled "`The Harmony of the Old and New Testaments,`" would be of great service thereaway,
+entitled [.book-title]#The Harmony of the Old and New Testaments,#
+would be of great service thereaway,
 as they show to the world that we own the Scriptures;
 for the dark Presbyterian priests labour to persuade the people that we do not.
 Pray follow this thing closely until it be perfected; in so doing you will ease my mind.
@@ -139,7 +140,7 @@ but Friends have got a meetinghouse newly built up:
 William Bickley and John Rodman are there.
 In Long Island there is an increase, many being convinced about Flushing.
 John Bond`'s son is a public preacher, and the Lord`'s goodness is to that family.
-Banters grow weaker than they were.
+Ranters grow weaker than they were.
 We had good service as we passed by land towards Rhode Island:
 the Lord`'s goodness is to those parts.
 The Lord made my service prosperous in Rhode Island; but I had hard exercise at times:
@@ -331,7 +332,7 @@ and the oversight of the church in those parts is likely to fall upon you,
 with others of your brethren, and God has given you a large portion of his Spirit,
 which opened your understandings to discern things,
 and has given you judgment to divide between the precious and the vile,
-I beseech you with, all diligence, put your hands to the work, in the Name of the Lord;
+I beseech you with all diligence, put your hands to the work, in the Name of the Lord;
 whatsoever is against the Truth in the heart or house, or in traffic,
 spare not to advise against it, and let it be done away; and my desire is,
 that your brethren may arise with you to the work of the Lord;
@@ -364,7 +365,7 @@ That every one of you that forsakes, or that has, forsaken, houses, or brethren,
 or sisters, or fathers, or mothers, or wife, or children, or lands for his Name`'s sake,
 shall receive a hundred fold in this world, and shall inherit everlasting life.
 Besides the Lord has said, Jer. 49:11. "`Leave your fatherless children,
-I will preserve them alive, and.
+I will preserve them alive, and
 let your widows trust in me.`"
 Is not this encouragement enough to all to trust in the Lord?
 Take heed and watch against that spirit that would lead into a foolish pity, saying,

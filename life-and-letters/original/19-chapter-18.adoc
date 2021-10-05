@@ -7,10 +7,10 @@
 * The Testimony of York Quarterly Meeting concerning William Ellis
 
 The following Testimonies respecting William Ellis were printed in a pamphlet entitled,
-"`A Brief Account of the Life and Death,
+[.book-title]#A Brief Account of the Life and Death,
 and some of the Gospel Labours of that faithful Servant and Minister of Jesus Christ,
 William Ellis; London: Printed and sold by J. Sowle, in White Hart Court,
-in Gracious Street, 1710.`"
+in Gracious Street, 1710.#
 Few copies of this tract, are now to be found;
 it presents a summary of the life and labours of William Ellis,
 and consequently claims a place in this volume.
@@ -358,7 +358,7 @@ even from sea to sea, unto the uttermost parts of the earth.
 
 Thus having been supported by the Lord in his service, after that meeting ended,
 he returned homewards,
-after which lie weakened by degrees till the time of his departure, which was not long.
+after which he weakened by degrees till the time of his departure, which was not long.
 Many sweet and edifying expressions dropped from him in his illness,
 by which it appeared he was ready to embrace death with cheerfulness of mind,
 whenever it should please the Lord so to order it.

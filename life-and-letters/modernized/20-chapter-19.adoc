@@ -9,12 +9,11 @@
 * Decease of Alice Ellis, and Testimony Concerning Her
 * Present state of Airton Meeting, and Settle Monthly Meeting
 
-The Meetinghouse at Airton, which is represented in the frontispiece of this volume,
-as sketched by Thomas Tatham, of Settle, stands with its back to the village street.
+The Meetinghouse at Airton stands with its back to the village street.
 On the opposite side of this street, William Ellis erected his own dwelling,
 in the style of a comfortable farm-house.
 There is, over a doorway which has been walled up, in the front of this house,
-the date of 1690 with the initials W. & A. E.
+the date of 1690 with the initials "`W. & A. E.`"
 Over an ample arch of neat structure,
 inclosing the fire-place in the kitchen-sitting-room, there are the same initials,
 with the date, 1702.
@@ -108,7 +107,7 @@ or call to account in any court any of the Trustees in regard to the said trust,
 they were thenceforth debarred from any further interest in the trust.
 
 Alice Ellis also conveyed to Richard Wilkinson, Robert Tunstall, John Moor,
-John Tomlinson, Simeon Wilkinson, and John Rawson, a close called Welldales,
+John Tomlinson, Simeon Wilkinson, and John Rawson, a house called Welldales,
 in the precincts of Calton, the rents of which, after certain small deductions,
 were to be applied in paying the tenant of the house in which she then dwelt,
 for the lodging and entertainment of such honest and faithful
@@ -252,8 +251,8 @@ the 1st of 1st mo.
 
 [.signed-section-signature]
 John Atkinson, William Holt, Thomas Clarke, Simeon Wilkinson, John Rawson, Joseph Hall,
-William Stockdale, Julian Frankland, Eleanor Carr, Alice Atkinson, Elizabeth Hall, Eliz.
-Bradley, Hannah Wilkinson, Eliz.
+William Stockdale, Julian Frankland, Eleanor Carr, Alice Atkinson, Elizabeth Hall, Elizabeth
+Bradley, Hannah Wilkinson, Elizabeth
 Armistead.
 
 --
