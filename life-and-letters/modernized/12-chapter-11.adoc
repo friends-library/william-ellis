@@ -3,7 +3,7 @@
 [.chapter-synopsis]
 * Yellow Fever
 * Notices of Thomas Duckett and Thomas Musgrave
-* Letters from Nicholas Wain and William Fishbourn
+* Letters from Nicholas Waln and William Fishbourn
 * Notice of Roger Gill and his death
 * Letter from Samuel Carpenter
 * Notice of Edward Shippen
@@ -69,7 +69,7 @@ Now, my friend, as touching our Yearly Meeting, it was but small,
 by reason of the sickness;
 but we may truly say the Lord our God made up our deficiencies;
 for his living power and sweet refreshing presence was with us,
-to the comfort of his,--whose hearts are true to him.
+to the comfort of his--whose hearts are true to him.
 He is the same that ever he was, and as he was good to his Israel in days past,
 so we may say, he is good to his Israel in this very day;
 blessed be his holy Name forever and forevermore!
@@ -208,7 +208,7 @@ which I look upon as a mercy more than ordinary; and desire we may all prize it,
 and walk worthy of it, for we have had, at times, in both families,
 above twenty persons taken sick, some violently with the distemper,
 and none have died but dear brother Abraham Hardiman and dear Roger Gill,
-who died in our house: it being in a time when the distemper wis exceedingly mortal,
+who died in our house: it being in a time when the distemper was exceedingly mortal,
 so that few recovered,
 and some whole families of our near neighbours were almost all taken away.
 
